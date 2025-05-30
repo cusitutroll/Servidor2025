@@ -113,6 +113,7 @@
       "sparse_redwoods": "2025-05-19 20:19:44 +0000",
       "deciduous_forest": "2025-05-18 03:52:02 +0000",
       "boreal_forest": "2025-05-20 03:40:49 +0000",
+      "glistering_meadow": "2025-05-30 05:19:55 +0000",
       "blackstone_basin": "2025-05-30 03:09:42 +0000",
       "chalk_cliffs": "2025-05-18 04:09:17 +0000",
       "infernal_holt": "2025-05-30 03:04:53 +0000",
@@ -1213,6 +1214,7 @@
       "minecraft:hoglin": "2025-05-30 03:30:57 +0000",
       "minecraft:vindicator": "2025-05-20 03:27:23 +0000",
       "minecraft:piglin_brute": "2025-05-30 03:28:57 +0000",
+      "minecraft:slime": "2025-05-30 05:27:46 +0000",
       "minecraft:wither_skeleton": "2025-05-20 04:26:59 +0000",
       "minecraft:piglin": "2025-05-30 03:32:53 +0000",
       "minecraft:silverfish": "2025-05-18 04:37:41 +0000",
@@ -7221,7 +7223,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "blackstone_basin": "2025-05-30 03:09:42 +0000",
-      "infernal_holt": "2025-05-30 03:04:53 +0000"
+      "infernal_holt": "2025-05-30 03:04:53 +0000",
+      "glistering_meadow": "2025-05-30 05:19:55 +0000"
     },
     "done": false
   },
@@ -7413,7 +7416,8 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
-      "incendium:weeping_valley": "2025-05-30 03:10:26 +0000"
+      "incendium:weeping_valley": "2025-05-30 03:10:26 +0000",
+      "incendium:toxic_heap": "2025-05-30 05:21:04 +0000"
     },
     "done": false
   },
@@ -7892,6 +7896,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-30 05:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/horse_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-05-30 05:02:31 +0000"
@@ -8012,6 +8022,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-30 05:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_golem_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-05-30 05:02:31 +0000"
@@ -8078,6 +8094,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-05-30 05:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/coal_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-30 05:03:44 +0000"
@@ -8123,6 +8145,12 @@
   "minecraft:recipes/tools/creeper_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-05-30 05:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
     },
     "done": true
   },
@@ -8186,6 +8214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/snow_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-05-30 05:02:31 +0000"
@@ -8195,6 +8229,12 @@
   "minecraft:recipes/tools/cow_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-05-30 05:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 05:28:06 +0000"
     },
     "done": true
   },
@@ -8228,9 +8268,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/hay_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-05-30 05:02:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_shrub": "2025-05-30 05:11:01 +0000"
     },
     "done": true
   },
@@ -8414,6 +8466,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-05-30 05:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/cactus_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-30 05:02:07 +0000"
@@ -8462,6 +8532,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_dye_from_glistering_bloom": {
+    "criteria": {
+      "has_glistering_bloom": "2025-05-30 05:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/gold_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-30 05:03:44 +0000"
@@ -8471,6 +8547,12 @@
   "minecraft:recipes/tools/snow_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-30 05:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
     },
     "done": true
   },
@@ -8570,6 +8652,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 05:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fox_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-30 05:03:44 +0000"
@@ -8612,6 +8706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wither_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-30 05:03:40 +0000"
@@ -8633,6 +8733,18 @@
   "minecraft:recipes/tools/bat_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-30 05:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-30 05:28:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-05-30 05:27:13 +0000"
     },
     "done": true
   },
@@ -8735,6 +8847,12 @@
   "minecraft:recipes/tools/spider_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-30 05:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-30 05:27:42 +0000"
     },
     "done": true
   },
