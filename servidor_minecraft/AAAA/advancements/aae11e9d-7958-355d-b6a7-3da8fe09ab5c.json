@@ -1215,6 +1215,7 @@
       "minecraft:vindicator": "2025-05-20 03:27:23 +0000",
       "minecraft:piglin_brute": "2025-05-30 03:28:57 +0000",
       "minecraft:slime": "2025-05-30 05:27:46 +0000",
+      "minecraft:phantom": "2025-05-30 05:36:45 +0000",
       "minecraft:wither_skeleton": "2025-05-20 04:26:59 +0000",
       "minecraft:piglin": "2025-05-30 03:32:53 +0000",
       "minecraft:silverfish": "2025-05-18 04:37:41 +0000",
@@ -8772,6 +8773,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-05-30 05:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wolf_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2025-05-30 05:03:40 +0000"
@@ -8873,6 +8880,12 @@
       "has_diamond_tier_upgrade": "2025-05-30 05:03:44 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-30 05:36:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/horse_smithing_diamond": {
     "criteria": {
