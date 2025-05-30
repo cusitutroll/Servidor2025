@@ -1287,3 +1287,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30May2025 03:05:43.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Downer]
 [30May2025 03:06:38.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=69, z=-175} BlockPos{x=157, y=68, z=-175}
 [30May2025 03:08:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Hidden in the Depths]
+[30May2025 03:09:44.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:37597] logged in with entity id 6194 at (-5.639894875112438, 38.0, -83.13321239488037)
+[30May2025 03:09:45.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[30May2025 03:09:45.761] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[30May2025 03:09:45.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[30May2025 03:10:18.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[30May2025 03:10:26.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Strange Biomes]
+[30May2025 03:10:32.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:60247] logged in with entity id 7480 at (-989.8661354197009, 73.0, -725.0269470218451)
+[30May2025 03:10:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
+[30May2025 03:10:32.178] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[30May2025 03:10:54.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [A Terrible Fortress]
+[30May2025 03:13:04.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=50, z=-120} BlockPos{x=85, y=50, z=-120}
+[30May2025 03:13:04.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=51, z=-120} BlockPos{x=85, y=50, z=-120}
+[30May2025 03:13:04.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=51, z=-120} BlockPos{x=85, y=50, z=-120}
+[30May2025 03:13:04.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=51, z=-120} BlockPos{x=85, y=50, z=-120}
+[30May2025 03:13:04.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=86, y=51, z=-120} BlockPos{x=85, y=50, z=-120}
+[30May2025 03:13:04.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=88, y=52, z=-121} BlockPos{x=85, y=50, z=-120}
+[30May2025 03:13:47.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=18, z=130} BlockPos{x=296, y=17, z=131}
+[30May2025 03:13:48.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=18, z=130} BlockPos{x=296, y=17, z=131}
+[30May2025 03:13:48.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=296, y=18, z=130} BlockPos{x=296, y=17, z=131}
+[30May2025 03:13:53.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=295, y=16, z=141} BlockPos{x=297, y=16, z=140}
+[30May2025 03:15:29.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"Temp: 383, -369", x:383, y:69, z:-369, dim:minecraft:the_nether]
+[30May2025 03:17:06.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Into Fire]
+[30May2025 03:17:09.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Isaaac_173[/127.121.81.23:50559] logged in with entity id 14546 at (63.69999998807907, 24.0, -160.69999998807907)
+[30May2025 03:17:09.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 joined the game
+[30May2025 03:17:09.440] [Server thread/INFO] [Jade/]: Syncing config to Isaaac_173 (5a9f8102-961e-3d36-ba9a-c7074b3f629e)
+[30May2025 03:17:13.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 tried to swim in lava
+[30May2025 03:17:13.823] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(63, 20, -161) minecraft:the_nether
+[30May2025 03:17:15.367] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12445, l='ServerLevel[AAAA]', x=167.53, y=-20.00, z=130.46] died: Restless Spirit was killed
+[30May2025 03:17:31.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> palo
+[30May2025 03:17:33.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> habla
+[30May2025 03:17:38.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> para ayudarte a ver tus cosas
+[30May2025 03:17:39.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> voy
+[30May2025 03:17:43.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> o pasa el waypoint
+[30May2025 03:17:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> voy
+[30May2025 03:18:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> se me perdió el waypoint
+[30May2025 03:19:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> no tengo ninguno xd
+[30May2025 03:19:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> bro
+[30May2025 03:19:12.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> tepeate al neter
+[30May2025 03:19:17.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> y ponte la
+[30May2025 03:19:18.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> estoy en el nether
+[30May2025 03:19:21.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> llave en la mano
+[30May2025 03:19:23.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> comparte
+[30May2025 03:19:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> aguanta
+[30May2025 03:19:39.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> ya hablo
+[30May2025 03:19:54.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=16, z=38} BlockPos{x=176, y=16, z=39}
+[30May2025 03:19:56.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=18, z=41} BlockPos{x=175, y=18, z=38}
+[30May2025 03:19:56.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=17, z=38} BlockPos{x=175, y=18, z=38}
+[30May2025 03:19:56.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=175, y=17, z=38} BlockPos{x=175, y=18, z=38}
+[30May2025 03:20:24.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=21, z=6} BlockPos{x=186, y=20, z=5}
+[30May2025 03:20:31.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=20, z=2} BlockPos{x=188, y=20, z=3}
+[30May2025 03:21:41.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=25, z=-31} BlockPos{x=179, y=25, z=-30}
