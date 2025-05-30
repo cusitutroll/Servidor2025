@@ -1097,6 +1097,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-30 03:32:46 +0000",
       "minecraft:skeleton": "2025-05-26 03:03:28 +0000",
       "minecraft:zombie": "2025-05-26 03:00:58 +0000"
     },
@@ -3460,6 +3461,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-05-30 03:32:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 03:13:28 +0000"
@@ -3469,6 +3476,12 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 03:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-30 03:33:14 +0000"
     },
     "done": true
   },
@@ -3544,6 +3557,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-05-30 03:24:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 03:13:28 +0000"
@@ -3559,6 +3578,12 @@
   "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 03:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 03:32:46 +0000"
     },
     "done": true
   },
@@ -3628,6 +3653,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 03:32:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 03:13:28 +0000"
@@ -3640,6 +3671,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-05-30 03:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-30 03:32:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 03:13:28 +0000"
@@ -3649,6 +3692,12 @@
   "aether:recipes/decorations/skyroot_grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-30 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-30 03:36:04 +0000"
     },
     "done": true
   },

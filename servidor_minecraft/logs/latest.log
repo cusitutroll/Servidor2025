@@ -1338,3 +1338,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30May2025 03:20:24.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=21, z=6} BlockPos{x=186, y=20, z=5}
 [30May2025 03:20:31.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=20, z=2} BlockPos{x=188, y=20, z=3}
 [30May2025 03:21:41.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=180, y=25, z=-31} BlockPos{x=179, y=25, z=-30}
+[30May2025 03:22:25.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/19569, l='ServerLevel[AAAA]', x=70.79, y=-20.00, z=-488.35] died: Toxic Slime was killed
+[30May2025 03:23:57.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[30May2025 03:24:13.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/7956, l='ServerLevel[AAAA]', x=224.56, y=34.00, z=-317.29] died, message: 'Cartographer was dragged underground by Dorcel'
+[30May2025 03:24:14.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[30May2025 03:24:17.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=320, y=57, z=-241} BlockPos{x=321, y=56, z=-244}
+[30May2025 03:24:27.845] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 7cd98193-4e11-4f81-bb53-58460744e6cb
+[30May2025 03:24:27.848] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 341 Y: 52 Z: -363
+[30May2025 03:24:27.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin Brute
+[30May2025 03:24:27.851] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(343, 52, -364) minecraft:the_nether
+[30May2025 03:25:30.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [A Seedy Place]
+[30May2025 03:25:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [War Pigs]
+[30May2025 03:25:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Made Casti414 no longer a server operator]
+[30May2025 03:26:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP fell from a high place
+[30May2025 03:26:45.609] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(97, 63, -134) minecraft:the_nether
+[30May2025 03:30:19.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Piglin
+[30May2025 03:30:19.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(196, 106, -233) minecraft:the_nether
+[30May2025 03:31:21.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30732, l='ServerLevel[AAAA]', x=91.98, y=-20.00, z=-483.78] died: Toxic Slime was killed
+[30May2025 03:31:21.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/30733, l='ServerLevel[AAAA]', x=77.58, y=-20.00, z=-480.86] died: Toxic Slime was killed
+[30May2025 03:31:48.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
+[30May2025 03:31:48.251] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(61, 97, -123) minecraft:the_nether
+[30May2025 03:31:53.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
+[30May2025 03:31:53.277] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(315, 77, -362) minecraft:the_nether
+[30May2025 03:33:05.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was shot by Pillager
+[30May2025 03:33:05.228] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-953, 77, -730) minecraft:overworld
+[30May2025 03:33:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Voluntary Exile]
+[30May2025 03:36:16.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 has made the advancement [Getting an Upgrade]
+[30May2025 03:36:56.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=90, z=-221} BlockPos{x=376, y=90, z=-222}
+[30May2025 03:36:56.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=89, z=-221} BlockPos{x=376, y=90, z=-222}
+[30May2025 03:40:35.133] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[30May2025 03:40:46.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/36230, l='ServerLevel[AAAA]', x=119.72, y=-20.00, z=-500.06] died: Toxic Slime was killed
+[30May2025 03:41:37.213] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Casti414 with unique ID 800dc75c-31cc-4187-bd9d-8055b8bc3476
+[30May2025 03:41:37.214] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 331 Y: 43 Z: -347
+[30May2025 03:41:37.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 fell from a high place
+[30May2025 03:41:37.217] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(335, 44, -346) minecraft:the_nether

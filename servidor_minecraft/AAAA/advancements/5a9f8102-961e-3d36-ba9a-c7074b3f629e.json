@@ -1869,6 +1869,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-05-19 06:26:13 +0000",
+      "brimwood_log": "2025-05-30 03:35:55 +0000",
       "redwood_log": "2025-05-19 06:22:05 +0000"
     },
     "done": false
@@ -6648,6 +6649,90 @@
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-05-27 04:16:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-30 03:36:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 03:35:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_sapling": "2025-05-30 03:35:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 03:35:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-30 03:36:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:36:01 +0000"
     },
     "done": true
   },

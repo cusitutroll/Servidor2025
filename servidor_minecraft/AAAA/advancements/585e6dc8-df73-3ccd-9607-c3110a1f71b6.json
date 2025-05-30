@@ -2828,6 +2828,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-05-18 04:46:26 +0000",
+      "brimwood_log": "2025-05-30 03:21:50 +0000",
       "redwood_log": "2025-05-19 06:07:34 +0000"
     },
     "done": false
@@ -8775,6 +8776,72 @@
   "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
     "criteria": {
       "has_brimwood_shrub": "2025-05-26 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_pressure_plate": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_fence": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_slab": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/brimwood_sign": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 03:21:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_button": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/brimwood_door": {
+    "criteria": {
+      "has_brimwood_planks": "2025-05-30 03:21:52 +0000"
     },
     "done": true
   },
