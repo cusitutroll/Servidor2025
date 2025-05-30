@@ -8929,5 +8929,299 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-30 04:07:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
