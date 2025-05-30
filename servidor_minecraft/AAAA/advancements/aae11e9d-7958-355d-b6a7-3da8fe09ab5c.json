@@ -1436,6 +1436,7 @@
       "minecraft:jungle": "2025-05-18 04:46:47 +0000",
       "minecraft:ocean": "2025-05-20 03:04:00 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-30 19:38:17 +0000",
+      "minecraft:snowy_beach": "2025-05-30 23:43:53 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-20 03:10:01 +0000",
       "minecraft:frozen_peaks": "2025-05-20 04:07:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-20 04:07:16 +0000",
@@ -9318,6 +9319,12 @@
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-05-30 20:33:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-30 23:43:48 +0000"
     },
     "done": true
   },

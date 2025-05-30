@@ -1288,3 +1288,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30May2025 23:35:48.046] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #unusualprehistory:is_ice_fossil_iceberg_biome (minecraft:frozen_river) took 11 ms
 [30May2025 23:35:59.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Teleported Casti414 to -2105.500000, 70.000000, 1004.500000]
 [30May2025 23:37:13.220] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #unusualprehistory:is_ice_fossil_iceberg_biome (minecraft:frozen_river) took 0 ms
+[30May2025 23:37:48.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2094, y=62, z=950} BlockPos{x=-2095, y=62, z=950}
+[30May2025 23:37:48.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2094, y=62, z=950} BlockPos{x=-2095, y=62, z=950}
+[30May2025 23:38:50.600] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #unusualprehistory:is_ice_fossil_iceberg_biome (minecraft:deep_frozen_ocean) took 453 ms
+[30May2025 23:38:54.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Teleported Casti414 to 3016.500000, 87.000000, -5930.500000]
+[30May2025 23:39:02.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3020, y=65, z=-5932} BlockPos{x=3019, y=65, z=-5935}
+[30May2025 23:39:07.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3021, y=63, z=-5928} BlockPos{x=3024, y=64, z=-5923}
+[30May2025 23:39:07.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3022, y=63, z=-5929} BlockPos{x=3023, y=62, z=-5928}
+[30May2025 23:39:07.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3022, y=63, z=-5929} BlockPos{x=3023, y=62, z=-5928}
+[30May2025 23:39:07.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3022, y=63, z=-5929} BlockPos{x=3023, y=62, z=-5928}
+[30May2025 23:39:07.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3022, y=63, z=-5929} BlockPos{x=3023, y=62, z=-5928}
+[30May2025 23:39:11.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3017, y=63, z=-5935} BlockPos{x=3018, y=62, z=-5935}
+[30May2025 23:39:11.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3017, y=63, z=-5935} BlockPos{x=3018, y=62, z=-5935}
+[30May2025 23:39:11.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3017, y=63, z=-5935} BlockPos{x=3018, y=62, z=-5935}
+[30May2025 23:39:11.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3017, y=63, z=-5935} BlockPos{x=3018, y=62, z=-5935}
+[30May2025 23:39:11.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3016, y=63, z=-5933} BlockPos{x=3018, y=62, z=-5935}
+[30May2025 23:39:11.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3016, y=63, z=-5933} BlockPos{x=3018, y=62, z=-5935}
+[30May2025 23:39:24.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3029, y=65, z=-5920} BlockPos{x=3027, y=65, z=-5920}
+[30May2025 23:39:31.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3024, y=65, z=-5938} BlockPos{x=3026, y=64, z=-5938}
+[30May2025 23:39:31.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3024, y=65, z=-5939} BlockPos{x=3026, y=64, z=-5938}
+[30May2025 23:39:47.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3055, y=66, z=-5947} BlockPos{x=3055, y=67, z=-5947}
+[30May2025 23:40:37.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Set own game mode to Spectator Mode]
+[30May2025 23:41:39.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Set own game mode to Survival Mode]
+[30May2025 23:41:51.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Set own game mode to Spectator Mode]
+[30May2025 23:43:48.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Smoke On The Water]
+[30May2025 23:45:01.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Casti414: Set own game mode to Survival Mode]
+[30May2025 23:45:08.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[30May2025 23:45:29.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Casti414 no longer a server operator
