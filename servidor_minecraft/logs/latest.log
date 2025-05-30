@@ -2417,3 +2417,101 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [30May2025 05:54:45.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/136723, l='ServerLevel[AAAA]', x=99.46, y=55.00, z=-684.26] died: Toxic Slime fell from a high place
 [30May2025 05:54:47.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/136672, l='ServerLevel[AAAA]', x=4.72, y=52.00, z=-574.26] died: Toxic Slime fell from a high place
 [30May2025 05:54:53.538] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137209, l='ServerLevel[AAAA]', x=132.58, y=31.00, z=-558.35] died: Toxic Slime fell from a high place
+[30May2025 05:55:13.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137546, l='ServerLevel[AAAA]', x=203.74, y=38.00, z=-720.65] died: Toxic Slime fell from a high place
+[30May2025 05:55:23.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137934, l='ServerLevel[AAAA]', x=99.59, y=65.00, z=-628.14] died: Toxic Slime fell from a high place
+[30May2025 05:55:25.887] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137996, l='ServerLevel[AAAA]', x=195.92, y=80.00, z=-677.97] died: Toxic Slime fell from a high place
+[30May2025 05:55:25.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137997, l='ServerLevel[AAAA]', x=189.77, y=75.00, z=-665.01] died: Toxic Slime fell from a high place
+[30May2025 05:55:25.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137925, l='ServerLevel[AAAA]', x=181.76, y=32.00, z=-627.90] died: Toxic Slime fell from a high place
+[30May2025 05:55:33.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138115, l='ServerLevel[AAAA]', x=100.37, y=64.00, z=-633.41] died: Toxic Slime fell from a high place
+[30May2025 05:55:37.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137935, l='ServerLevel[AAAA]', x=111.48, y=63.00, z=-638.85] died: Toxic Slime fell from a high place
+[30May2025 05:55:39.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138087, l='ServerLevel[AAAA]', x=8.47, y=109.00, z=-772.24] died: Toxic Slime fell from a high place
+[30May2025 05:55:52.236] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138292, l='ServerLevel[AAAA]', x=89.28, y=54.00, z=-669.81] died: Toxic Slime fell from a high place
+[30May2025 05:55:55.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138749, l='ServerLevel[AAAA]', x=71.70, y=53.00, z=-616.30] died: Toxic Slime fell from a high place
+[30May2025 05:55:56.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138691, l='ServerLevel[AAAA]', x=89.55, y=92.00, z=-742.14] died: Toxic Slime fell from a high place
+[30May2025 05:56:00.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/135386, l='ServerLevel[AAAA]', x=122.43, y=-20.00, z=-667.32] died: Toxic Slime was killed
+[30May2025 05:56:01.539] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138750, l='ServerLevel[AAAA]', x=63.11, y=54.00, z=-609.39] died: Toxic Slime fell from a high place
+[30May2025 05:56:04.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/135497, l='ServerLevel[AAAA]', x=103.03, y=-20.00, z=-699.88] died: Toxic Slime was killed
+[30May2025 05:56:10.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138641, l='ServerLevel[AAAA]', x=73.41, y=56.00, z=-641.03] died: Toxic Slime fell from a high place
+[30May2025 05:56:20.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139542, l='ServerLevel[AAAA]', x=125.33, y=61.00, z=-648.67] died: Toxic Slime fell from a high place
+[30May2025 05:56:25.186] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/138336, l='ServerLevel[AAAA]', x=103.37, y=63.00, z=-638.94] died: Toxic Slime fell from a high place
+[30May2025 05:56:28.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137958, l='ServerLevel[AAAA]', x=81.66, y=53.00, z=-609.15] died: Toxic Slime fell from a high place
+[30May2025 05:56:33.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139719, l='ServerLevel[AAAA]', x=34.29, y=50.00, z=-636.88] died: Toxic Slime fell from a high place
+[30May2025 05:56:36.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139720, l='ServerLevel[AAAA]', x=37.56, y=54.00, z=-634.82] died: Toxic Slime fell from a high place
+[30May2025 05:56:37.236] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139993, l='ServerLevel[AAAA]', x=86.80, y=58.00, z=-543.67] died: Toxic Slime fell from a high place
+[30May2025 05:56:47.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137876, l='ServerLevel[AAAA]', x=86.00, y=31.00, z=-602.85] died: Toxic Slime fell from a high place
+[30May2025 05:56:48.186] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139544, l='ServerLevel[AAAA]', x=90.40, y=62.00, z=-636.43] died: Toxic Slime fell from a high place
+[30May2025 05:56:49.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137933, l='ServerLevel[AAAA]', x=84.66, y=61.00, z=-627.21] died: Toxic Slime fell from a high place
+[30May2025 05:56:52.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/140452, l='ServerLevel[AAAA]', x=48.26, y=54.00, z=-514.12] died: Toxic Slime fell from a high place
+[30May2025 05:56:53.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/136586, l='ServerLevel[AAAA]', x=11.98, y=-20.00, z=-596.10] died: Toxic Slime was killed
+[30May2025 05:56:54.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139637, l='ServerLevel[AAAA]', x=98.29, y=58.00, z=-533.86] died: Toxic Slime fell from a high place
+[30May2025 05:56:56.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/136677, l='ServerLevel[AAAA]', x=123.57, y=-20.00, z=-685.24] died: Toxic Slime was killed
+[30May2025 05:57:16.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137133, l='ServerLevel[AAAA]', x=90.33, y=-20.00, z=-595.64] died: Toxic Slime was killed
+[30May2025 05:57:22.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/140997, l='ServerLevel[AAAA]', x=74.33, y=55.00, z=-629.42] died: Toxic Slime fell from a high place
+[30May2025 05:57:24.585] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/139635, l='ServerLevel[AAAA]', x=41.53, y=55.00, z=-525.16] died: Toxic Slime fell from a high place
+[30May2025 05:57:29.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/140984, l='ServerLevel[AAAA]', x=74.53, y=53.00, z=-618.61] died: Toxic Slime fell from a high place
+[30May2025 05:57:29.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141164, l='ServerLevel[AAAA]', x=41.74, y=50.00, z=-549.20] died: Toxic Slime fell from a high place
+[30May2025 05:57:30.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137439, l='ServerLevel[AAAA]', x=112.29, y=-20.00, z=-596.83] died: Toxic Slime was killed
+[30May2025 05:57:33.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141239, l='ServerLevel[AAAA]', x=115.98, y=57.00, z=-506.90] died: Toxic Slime fell from a high place
+[30May2025 05:57:33.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141240, l='ServerLevel[AAAA]', x=109.00, y=58.00, z=-497.99] died: Toxic Slime fell from a high place
+[30May2025 05:57:36.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141286, l='ServerLevel[AAAA]', x=150.26, y=65.00, z=-661.16] died: Toxic Slime fell from a high place
+[30May2025 05:57:37.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141303, l='ServerLevel[AAAA]', x=97.92, y=57.00, z=-541.44] died: Toxic Slime fell from a high place
+[30May2025 05:57:38.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/137642, l='ServerLevel[AAAA]', x=103.07, y=-20.00, z=-597.04] died: Toxic Slime was killed
+[30May2025 05:57:44.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141302, l='ServerLevel[AAAA]', x=92.01, y=88.00, z=-568.26] died: Toxic Slime fell from a high place
+[30May2025 05:57:45.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141391, l='ServerLevel[AAAA]', x=68.76, y=54.00, z=-604.47] died: Toxic Slime fell from a high place
+[30May2025 05:57:45.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141436, l='ServerLevel[AAAA]', x=36.83, y=58.00, z=-524.84] died: Toxic Slime fell from a high place
+[30May2025 05:57:45.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141325, l='ServerLevel[AAAA]', x=151.90, y=28.00, z=-561.72] died: Toxic Slime fell from a high place
+[30May2025 05:57:48.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141410, l='ServerLevel[AAAA]', x=104.02, y=101.00, z=-575.74] died: Toxic Slime fell from a high place
+[30May2025 05:57:49.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141451, l='ServerLevel[AAAA]', x=53.91, y=44.00, z=-521.06] died: Toxic Slime fell from a high place
+[30May2025 05:57:53.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141529, l='ServerLevel[AAAA]', x=123.05, y=54.00, z=-449.20] died: Toxic Slime fell from a high place
+[30May2025 05:57:57.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141473, l='ServerLevel[AAAA]', x=86.98, y=36.00, z=-597.06] died: Toxic Slime fell from a high place
+[30May2025 05:58:01.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141533, l='ServerLevel[AAAA]', x=218.41, y=60.00, z=-562.59] died: Toxic Slime fell from a high place
+[30May2025 05:58:02.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141392, l='ServerLevel[AAAA]', x=155.12, y=107.00, z=-512.42] died: Toxic Slime fell off some weeping vines
+[30May2025 05:58:09.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141099, l='ServerLevel[AAAA]', x=155.53, y=29.00, z=-548.78] died: Toxic Slime fell from a high place
+[30May2025 05:58:15.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141514, l='ServerLevel[AAAA]', x=156.80, y=63.00, z=-510.97] died: Toxic Slime fell from a high place
+[30May2025 05:58:15.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141954, l='ServerLevel[AAAA]', x=113.80, y=52.00, z=-513.18] died: Toxic Slime fell from a high place
+[30May2025 05:58:16.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141876, l='ServerLevel[AAAA]', x=163.57, y=59.00, z=-490.89] died: Toxic Slime fell from a high place
+[30May2025 05:58:22.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141872, l='ServerLevel[AAAA]', x=157.24, y=57.00, z=-548.67] died: Toxic Slime fell from a high place
+[30May2025 05:58:27.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141468, l='ServerLevel[AAAA]', x=252.63, y=87.00, z=-478.26] died: Toxic Slime fell from a high place
+[30May2025 05:58:41.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142291, l='ServerLevel[AAAA]', x=107.67, y=31.00, z=-563.30] died: Toxic Slime fell from a high place
+[30May2025 05:58:41.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142271, l='ServerLevel[AAAA]', x=48.32, y=52.00, z=-519.58] died: Toxic Slime fell from a high place
+[30May2025 05:58:43.238] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142173, l='ServerLevel[AAAA]', x=130.81, y=59.00, z=-441.77] died: Toxic Slime fell from a high place
+[30May2025 05:58:49.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[30May2025 05:58:49.735] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/142448, l='ServerLevel[AAAA]', x=165.69, y=138.00, z=-428.17] died: Toxic Slime was dragged underground by Dorcel
+[30May2025 05:58:52.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/141497, l='ServerLevel[AAAA]', x=157.57, y=63.00, z=-509.90] died: Toxic Slime fell from a high place
+[30May2025 06:00:23.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"Posible spot casa", x:-240, y:133, z:-2240, dim:minecraft:overworld]
+[30May2025 06:01:01.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[30May2025 06:01:01.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[30May2025 06:01:20.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.235.203.197:35431] logged in with entity id 148757 at (-70.2659519544609, 63.08576431274413, -2053.5123122498985)
+[30May2025 06:01:20.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[30May2025 06:01:20.815] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[30May2025 06:02:45.216] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/150978, l='ServerLevel[AAAA]', x=-43.50, y=80.00, z=-2144.50]
+[30May2025 06:02:58.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> si
+[30May2025 06:03:03.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> esperame
+[30May2025 06:06:11.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> perame
+[30May2025 06:06:16.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> me estan jodiendo
+[30May2025 06:06:20.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> q no le haga caso
+[30May2025 06:09:27.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> bro
+[30May2025 06:09:30.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> entendiste todo
+[30May2025 06:09:33.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> sin una palabra
+[30May2025 06:10:54.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[30May2025 06:10:54.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[30May2025 06:10:55.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[30May2025 06:10:55.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[30May2025 06:11:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30May2025 06:11:09.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30May2025 06:11:09.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30May2025 06:11:09.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30May2025 06:11:09.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[30May2025 06:11:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[30May2025 06:11:10.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[30May2025 06:11:10.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[30May2025 06:11:10.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[30May2025 06:11:10.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[30May2025 06:11:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[30May2025 06:11:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[30May2025 06:11:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[30May2025 06:11:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30May2025 06:11:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[30May2025 06:11:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30May2025 06:11:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30May2025 06:11:10.440] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

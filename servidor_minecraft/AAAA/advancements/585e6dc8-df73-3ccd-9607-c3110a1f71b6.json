@@ -1402,6 +1402,7 @@
       "minecraft:deep_ocean": "2025-05-20 03:11:32 +0000",
       "minecraft:cherry_grove": "2025-05-20 04:17:28 +0000",
       "minecraft:birch_forest": "2025-05-20 04:11:47 +0000",
+      "minecraft:bamboo_jungle": "2025-05-30 06:03:09 +0000",
       "minecraft:beach": "2025-05-20 03:33:57 +0000",
       "minecraft:stony_peaks": "2025-05-18 04:25:05 +0000",
       "minecraft:sparse_jungle": "2025-05-18 04:36:26 +0000",
@@ -9224,6 +9225,78 @@
       "has_planks": "2025-05-30 04:07:59 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-30 06:10:46 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
