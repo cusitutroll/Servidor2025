@@ -1953,3 +1953,24 @@ java.lang.Exception: null
 [30May2025 20:33:25.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has reached the goal [Ice Scream]
 [30May2025 20:33:54.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
 [30May2025 20:33:54.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[30May2025 20:40:34.455] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/82831, l='ServerLevel[AAAA]', x=50.58, y=101.02, z=-463.76] died, message: 'Farmer was slain by Zombie Villager'
+[30May2025 20:45:13.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[30May2025 20:45:13.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[30May2025 20:45:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30May2025 20:45:20.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30May2025 20:45:20.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30May2025 20:45:20.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30May2025 20:45:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:overworld
+[30May2025 20:45:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_end
+[30May2025 20:45:20.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/twilightforest:twilight_forest
+[30May2025 20:45:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/aether:the_aether
+[30May2025 20:45:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/deeperdarker:otherside
+[30May2025 20:45:20.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[AAAA]'/minecraft:the_nether
+[30May2025 20:45:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (AAAA): All chunks are saved
+[30May2025 20:45:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30May2025 20:45:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[30May2025 20:45:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[30May2025 20:45:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[30May2025 20:45:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30May2025 20:45:20.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30May2025 20:45:20.932] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
