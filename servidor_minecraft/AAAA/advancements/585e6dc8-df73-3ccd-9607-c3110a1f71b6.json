@@ -2831,7 +2831,8 @@
     "criteria": {
       "magnolia_log": "2025-05-18 04:46:26 +0000",
       "brimwood_log": "2025-05-30 03:21:50 +0000",
-      "redwood_log": "2025-05-19 06:07:34 +0000"
+      "redwood_log": "2025-05-19 06:07:34 +0000",
+      "maple_log": "2025-05-30 19:02:54 +0000"
     },
     "done": false
   },
@@ -9373,6 +9374,36 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-05-30 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2025-05-30 19:02:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-05-30 19:02:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-05-30 19:02:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-05-30 19:02:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-05-30 19:02:55 +0000"
     },
     "done": true
   },
