@@ -945,6 +945,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-05-30 16:58:03 +0000",
       "tropical_fish": "2025-05-27 04:26:06 +0000",
       "apple": "2025-05-26 03:01:46 +0000",
       "cooked_cod": "2025-05-27 04:25:44 +0000",
