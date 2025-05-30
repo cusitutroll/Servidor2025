@@ -7417,6 +7417,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-05-30 05:43:03 +0000",
       "incendium:weeping_valley": "2025-05-30 03:10:26 +0000",
       "incendium:toxic_heap": "2025-05-30 05:21:04 +0000"
     },
@@ -8053,6 +8054,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-30 05:45:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/redstone_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-05-30 05:03:44 +0000"
@@ -8293,6 +8300,12 @@
     },
     "done": true
   },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-05-30 05:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/pig_smithing_netherite": {
     "criteria": {
       "has_netherite_tier_upgrade": "2025-05-30 05:02:31 +0000"
@@ -8302,6 +8315,12 @@
   "minecraft:recipes/tools/skeleton_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2025-05-30 05:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-05-30 05:47:22 +0000"
     },
     "done": true
   },
