@@ -9377,12 +9377,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
-    "criteria": {
-      "has_orange_maple_sapling": "2025-05-30 19:02:59 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2025-05-30 19:02:54 +0000"
@@ -9404,6 +9398,18 @@
   "regions_unexplored:recipes/decorations/red_maple_shrub": {
     "criteria": {
       "has_red_maple_sapling": "2025-05-30 19:02:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/orange_maple_shrub": {
+    "criteria": {
+      "has_orange_maple_sapling": "2025-05-30 19:02:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-30 19:57:15 +0000"
     },
     "done": true
   },

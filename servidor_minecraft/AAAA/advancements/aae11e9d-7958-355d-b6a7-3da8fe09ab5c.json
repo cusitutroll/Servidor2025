@@ -97,6 +97,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-05-30 19:41:31 +0000",
       "shrubland": "2025-05-19 22:41:16 +0000",
       "pine_taiga": "2025-05-20 03:41:21 +0000",
       "autumnal_maple_forest": "2025-05-20 04:09:00 +0000",
@@ -104,12 +105,14 @@
       "ancient_delta": "2025-05-19 23:42:37 +0000",
       "frozen_tundra": "2025-05-30 19:23:32 +0000",
       "redstone_caves": "2025-05-19 23:56:07 +0000",
+      "poppy_fields": "2025-05-30 19:50:01 +0000",
       "grassy_beach": "2025-05-19 20:43:19 +0000",
       "scorching_caves": "2025-05-19 22:46:14 +0000",
       "blackwood_taiga": "2025-05-20 03:41:26 +0000",
       "rocky_meadow": "2025-05-21 05:28:49 +0000",
       "highland_fields": "2025-05-20 04:09:51 +0000",
       "maple_forest": "2025-05-20 04:21:14 +0000",
+      "frozen_pine_taiga": "2025-05-30 19:37:19 +0000",
       "magnolia_highlands": "2025-05-18 04:12:50 +0000",
       "sparse_redwoods": "2025-05-19 20:19:44 +0000",
       "deciduous_forest": "2025-05-18 03:52:02 +0000",
@@ -118,10 +121,14 @@
       "blackstone_basin": "2025-05-30 03:09:42 +0000",
       "chalk_cliffs": "2025-05-18 04:09:17 +0000",
       "infernal_holt": "2025-05-30 03:04:53 +0000",
+      "cold_boreal_taiga": "2025-05-30 19:29:24 +0000",
       "temperate_grove": "2025-05-20 03:44:19 +0000",
+      "cold_river": "2025-05-30 19:33:25 +0000",
+      "spires": "2025-05-30 19:29:55 +0000",
       "grassland": "2025-05-18 04:07:42 +0000",
       "gravel_beach": "2025-05-20 03:40:29 +0000",
       "redwoods": "2025-05-18 04:12:25 +0000",
+      "hyacinth_deeps": "2025-05-30 20:08:02 +0000",
       "lupine_plains": "2025-05-20 03:41:33 +0000"
     },
     "done": false
@@ -134,25 +141,32 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-05-30 19:41:31 +0000",
       "shrubland": "2025-05-19 22:41:16 +0000",
       "pine_taiga": "2025-05-20 03:41:21 +0000",
       "autumnal_maple_forest": "2025-05-20 04:09:00 +0000",
       "muddy_river": "2025-05-20 03:39:19 +0000",
       "frozen_tundra": "2025-05-30 19:23:32 +0000",
+      "poppy_fields": "2025-05-30 19:50:01 +0000",
       "grassy_beach": "2025-05-19 20:43:19 +0000",
       "blackwood_taiga": "2025-05-20 03:41:26 +0000",
       "rocky_meadow": "2025-05-21 05:28:49 +0000",
       "highland_fields": "2025-05-20 04:09:51 +0000",
       "maple_forest": "2025-05-20 04:21:14 +0000",
+      "frozen_pine_taiga": "2025-05-30 19:37:19 +0000",
       "magnolia_highlands": "2025-05-18 04:12:50 +0000",
       "sparse_redwoods": "2025-05-19 20:19:44 +0000",
       "deciduous_forest": "2025-05-18 03:52:02 +0000",
       "boreal_forest": "2025-05-20 03:40:49 +0000",
       "chalk_cliffs": "2025-05-18 04:09:17 +0000",
+      "cold_boreal_taiga": "2025-05-30 19:29:24 +0000",
       "temperate_grove": "2025-05-20 03:44:19 +0000",
+      "cold_river": "2025-05-30 19:33:25 +0000",
+      "spires": "2025-05-30 19:29:55 +0000",
       "grassland": "2025-05-18 04:07:42 +0000",
       "gravel_beach": "2025-05-20 03:40:29 +0000",
       "redwoods": "2025-05-18 04:12:25 +0000",
+      "hyacinth_deeps": "2025-05-30 20:08:02 +0000",
       "lupine_plains": "2025-05-20 03:41:33 +0000"
     },
     "done": false
@@ -1392,6 +1406,7 @@
       "minecraft:snowy_slopes": "2025-05-20 04:07:58 +0000",
       "minecraft:taiga": "2025-05-30 06:02:24 +0000",
       "minecraft:deep_ocean": "2025-05-20 03:11:32 +0000",
+      "minecraft:frozen_river": "2025-05-30 19:31:52 +0000",
       "minecraft:cherry_grove": "2025-05-20 04:10:33 +0000",
       "minecraft:birch_forest": "2025-05-20 04:07:17 +0000",
       "minecraft:bamboo_jungle": "2025-05-18 04:46:52 +0000",
@@ -1401,14 +1416,19 @@
       "minecraft:lukewarm_ocean": "2025-05-18 04:08:28 +0000",
       "minecraft:river": "2025-05-19 22:41:59 +0000",
       "minecraft:stony_shore": "2025-05-20 04:05:26 +0000",
+      "minecraft:snowy_plains": "2025-05-30 19:37:09 +0000",
       "minecraft:dripstone_caves": "2025-05-20 04:08:01 +0000",
       "minecraft:grove": "2025-05-20 04:07:25 +0000",
       "minecraft:jagged_peaks": "2025-05-20 04:07:30 +0000",
       "minecraft:cold_ocean": "2025-05-20 03:33:48 +0000",
       "minecraft:forest": "2025-05-18 04:36:24 +0000",
       "minecraft:lush_caves": "2025-05-18 04:42:03 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-30 19:56:43 +0000",
+      "minecraft:frozen_ocean": "2025-05-30 19:26:45 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-30 20:07:23 +0000",
       "minecraft:jungle": "2025-05-18 04:46:47 +0000",
       "minecraft:ocean": "2025-05-20 03:04:00 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-30 19:38:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-20 03:10:01 +0000",
       "minecraft:frozen_peaks": "2025-05-20 04:07:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-20 04:07:16 +0000",
@@ -9017,6 +9037,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-30 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-05-30 19:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-30 19:22:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 19:22:26 +0000"
@@ -9053,12 +9091,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-30 19:22:16 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/black_picket_gate": {
     "criteria": {
       "has_gate": "2025-05-30 19:22:26 +0000"
@@ -9080,18 +9112,6 @@
   "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-05-30 19:22:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-05-30 19:18:03 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:emberblade": {
-    "criteria": {
-      "requirement": "2025-05-30 19:20:46 +0000"
     },
     "done": true
   },
@@ -9218,6 +9238,36 @@
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_gate": "2025-05-30 19:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-30 19:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-30 19:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-30 19:34:56 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2025-05-30 19:41:08 +0000"
+    },
+    "done": false
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-30 20:07:23 +0000"
     },
     "done": true
   },
