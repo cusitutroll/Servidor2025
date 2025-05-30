@@ -196,6 +196,7 @@
       "cooked_porkchop": "2025-05-21 05:45:03 +0000",
       "cooked_beef": "2025-05-20 03:12:16 +0000",
       "baked_potato": "2025-05-19 06:37:57 +0000",
+      "porkchop": "2025-05-30 04:30:22 +0000",
       "apple": "2025-05-19 06:16:52 +0000",
       "potato": "2025-05-20 06:54:30 +0000",
       "cooked_cod": "2025-05-27 04:25:40 +0000",
@@ -6890,6 +6891,24 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-30 04:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-05-30 04:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-30 04:22:47 +0000"
     },
     "done": true
   },

@@ -1494,3 +1494,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30May2025 04:21:33.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx lost connection: Disconnected
 [30May2025 04:21:33.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
 [30May2025 04:22:57.874] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[30May2025 04:23:40.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[30May2025 04:23:40.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[30May2025 04:26:08.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [A Terrible Fortress]
+[30May2025 04:29:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> [name:"SLIME", x:42, y:1, z:-571, dim:minecraft:the_nether]
+[30May2025 04:31:22.095] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID b4b44006-291a-4029-9567-5474a5d6a2c6
+[30May2025 04:31:22.096] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 493 Y: 72 Z: -326
+[30May2025 04:31:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Wither Skeleton
+[30May2025 04:31:22.097] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(493, 72, -327) minecraft:the_nether
+[30May2025 04:31:48.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP tried to swim in lava to escape Skeleton
+[30May2025 04:31:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[30May2025 04:32:15.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[30May2025 04:32:16.381] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[30May2025 04:38:01.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=43, z=-434} BlockPos{x=358, y=56, z=-440}
+[30May2025 04:38:01.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=419, y=43, z=-434} BlockPos{x=358, y=56, z=-440}
+[30May2025 04:38:01.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=56, z=-441} BlockPos{x=358, y=56, z=-440}
+[30May2025 04:38:01.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=56, z=-441} BlockPos{x=358, y=56, z=-440}
+[30May2025 04:38:01.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=56, z=-441} BlockPos{x=358, y=56, z=-440}
+[30May2025 04:38:01.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=55, z=-441} BlockPos{x=358, y=56, z=-440}
+[30May2025 04:38:01.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=355, y=55, z=-442} BlockPos{x=358, y=56, z=-440}
+[30May2025 04:38:03.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=350, y=55, z=-441} BlockPos{x=349, y=54, z=-440}
+[30May2025 04:38:41.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=289, y=51, z=-400} BlockPos{x=288, y=52, z=-399}
+[30May2025 04:38:41.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=289, y=52, z=-399} BlockPos{x=288, y=52, z=-399}
+[30May2025 04:38:41.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=289, y=52, z=-399} BlockPos{x=288, y=52, z=-399}
+[30May2025 04:38:41.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=288, y=53, z=-398} BlockPos{x=288, y=52, z=-399}
+[30May2025 04:38:41.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=287, y=53, z=-398} BlockPos{x=288, y=52, z=-399}
+[30May2025 04:38:41.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=287, y=53, z=-398} BlockPos{x=288, y=52, z=-399}
+[30May2025 04:38:41.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=287, y=53, z=-398} BlockPos{x=288, y=52, z=-399}
+[30May2025 04:39:32.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=81, z=-331} BlockPos{x=270, y=81, z=-331}
+[30May2025 04:39:32.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=81, z=-331} BlockPos{x=270, y=81, z=-331}
+[30May2025 04:39:32.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=81, z=-330} BlockPos{x=270, y=81, z=-331}
+[30May2025 04:39:32.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=82, z=-330} BlockPos{x=270, y=81, z=-331}
+[30May2025 04:39:32.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=82, z=-330} BlockPos{x=270, y=81, z=-331}
+[30May2025 04:39:32.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=82, z=-330} BlockPos{x=270, y=81, z=-331}
+[30May2025 04:39:52.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
+[30May2025 04:39:52.084] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(262, 42, -353) minecraft:the_nether
+[30May2025 04:40:22.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=264, y=60, z=-357} BlockPos{x=263, y=60, z=-356}
+[30May2025 04:41:06.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/78856, l='ServerLevel[AAAA]', x=98.79, y=-20.00, z=-538.73] died: Toxic Slime was killed
+[30May2025 04:42:02.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/79624, l='ServerLevel[AAAA]', x=68.49, y=-20.00, z=-510.85] died: Toxic Slime was killed
+[30May2025 04:43:20.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
