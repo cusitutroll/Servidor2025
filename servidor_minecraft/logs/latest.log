@@ -1372,3 +1372,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30May2025 03:41:37.214] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 331 Y: 43 Z: -347
 [30May2025 03:41:37.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 fell from a high place
 [30May2025 03:41:37.217] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(335, 44, -346) minecraft:the_nether
+[30May2025 03:42:52.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP lost connection: Disconnected
+[30May2025 03:42:52.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP left the game
+[30May2025 03:43:26.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:44047] logged in with entity id 38573 at (343.5286429519146, 53.0, -364.6759374805523)
+[30May2025 03:43:26.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[30May2025 03:43:26.142] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[30May2025 03:43:46.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 02b0afa7-4e63-4b55-81f8-7b843486573e
+[30May2025 03:43:46.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 341 Y: 51 Z: -360
+[30May2025 03:43:46.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Spirit
+[30May2025 03:43:46.357] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(343, 50, -361) minecraft:the_nether
+[30May2025 03:43:55.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 fell from a high place
+[30May2025 03:43:55.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(79, 66, -125) minecraft:the_nether
+[30May2025 03:49:46.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[30May2025 03:49:46.115] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 golden_gloves
+[30May2025 03:50:31.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> CASTI
+[30May2025 03:50:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> CASI
+[30May2025 03:50:37.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> ESTOU AQUI
+[30May2025 03:50:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> AYUDA
+[30May2025 03:50:45.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> NO TENGO COMIDA
+[30May2025 03:51:26.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Piglin Brute
+[30May2025 03:51:26.329] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(343, 69, -363) minecraft:the_nether
+[30May2025 03:52:29.691] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[30May2025 03:53:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 fell from a high place
+[30May2025 03:53:28.263] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(79, 66, -125) minecraft:the_nether
+[30May2025 03:53:33.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> palo
+[30May2025 03:53:35.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> bro
+[30May2025 03:53:37.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> .....
+[30May2025 03:53:40.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> esta imposible
+[30May2025 03:53:45.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> eres un mono
+[30May2025 03:53:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> @gabi s
+[30May2025 03:55:16.893] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID aedb5ae8-bb68-45f6-acf6-85bd5df26b9c
+[30May2025 03:55:16.893] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 387 Y: 57 Z: -360
+[30May2025 03:55:16.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP tried to swim in lava
+[30May2025 03:55:16.896] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(389, 57, -360) minecraft:the_nether
+[30May2025 03:57:19.991] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[30May2025 03:57:40.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Hoglin
+[30May2025 03:57:40.484] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(346, 95, -269) minecraft:the_nether
+[30May2025 03:58:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> casti
+[30May2025 03:58:36.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> sube
+[30May2025 03:58:55.591] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 470a5720-5ec7-466c-b26c-377bf64e2927
+[30May2025 03:58:55.592] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 387 Y: 45 Z: -363
+[30May2025 03:58:55.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin
+[30May2025 03:58:55.594] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(385, 44, -362) minecraft:the_nether
+[30May2025 03:59:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isaaac_173> JAJSJASJSAJ
+[30May2025 03:59:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
+[30May2025 03:59:34.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Teleported Isaaac_173 to PandagamerP]
+[30May2025 04:00:11.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Piglin
+[30May2025 04:00:11.429] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(382, 53, -360) minecraft:the_nether
+[30May2025 04:00:20.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 tried to swim in lava
+[30May2025 04:00:25.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was shot by Skeleton
+[30May2025 04:01:02.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP fell from a high place
+[30May2025 04:01:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> loco
+[30May2025 04:01:12.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> me voy a morir
+[30May2025 04:01:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 tried to swim in lava
+[30May2025 04:01:43.133] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30May2025 04:01:46.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 tried to swim in lava to escape Bone Serpent
+[30May2025 04:01:59.186] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
