@@ -113,6 +113,7 @@
       "scorching_caves": "2025-05-19 22:57:08 +0000",
       "blackwood_taiga": "2025-05-20 03:41:26 +0000",
       "mycotoxic_undergrowth": "2025-05-26 01:55:53 +0000",
+      "ochard": "2025-05-31 01:39:51 +0000",
       "maple_forest": "2025-05-20 04:20:48 +0000",
       "magnolia_highlands": "2025-05-18 04:11:47 +0000",
       "sparse_redwoods": "2025-05-18 04:24:09 +0000",
@@ -138,6 +139,7 @@
       "autumnal_maple_forest": "2025-05-20 04:20:11 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
       "blackwood_taiga": "2025-05-20 03:41:26 +0000",
+      "ochard": "2025-05-31 01:39:51 +0000",
       "maple_forest": "2025-05-20 04:20:48 +0000",
       "magnolia_highlands": "2025-05-18 04:11:47 +0000",
       "sparse_redwoods": "2025-05-18 04:24:09 +0000",
@@ -8176,7 +8178,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_cherry": "2025-05-20 03:44:11 +0000"
+      "in_village_cherry": "2025-05-20 03:44:11 +0000",
+      "in_village_oak": "2025-05-31 01:39:36 +0000"
     },
     "done": false
   },
@@ -9477,6 +9480,24 @@
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-05-31 01:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-31 01:59:08 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-05-31 01:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 01:59:08 +0000"
     },
     "done": true
   },

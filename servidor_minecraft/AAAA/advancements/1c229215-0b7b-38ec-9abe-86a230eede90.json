@@ -4225,9 +4225,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 01:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-31 01:20:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
     },
     "done": true
   },
@@ -4246,6 +4264,18 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
     "criteria": {
       "has_red_wool": "2025-05-31 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 01:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
     },
     "done": true
   },
@@ -4309,6 +4339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 01:45:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-31 01:20:39 +0000"
@@ -4330,6 +4366,12 @@
   "valhelsia_furniture:recipes/decorations/red_spruce_chair": {
     "criteria": {
       "has_red_wool": "2025-05-31 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
     },
     "done": true
   },
@@ -4363,6 +4405,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_chair": {
     "criteria": {
       "has_red_wool": "2025-05-31 01:32:53 +0000"
@@ -4387,6 +4435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 01:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2025-05-31 01:32:30 +0000"
@@ -4396,6 +4450,12 @@
   "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
     "criteria": {
       "has_red_wool": "2025-05-31 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
     },
     "done": true
   },
@@ -4423,6 +4483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 01:45:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_stool": {
     "criteria": {
       "has_red_wool": "2025-05-31 01:32:53 +0000"
@@ -4432,6 +4498,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_chair": {
     "criteria": {
       "has_red_wool": "2025-05-31 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-31 01:45:40 +0000"
     },
     "done": true
   },
@@ -4486,6 +4558,12 @@
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-05-31 01:37:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
     },
     "done": true
   },
@@ -4573,6 +4651,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-05-31 01:32:30 +0000"
@@ -4582,6 +4666,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-31 01:20:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
     },
     "done": true
   },
@@ -4615,9 +4705,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:main/fossil": {
     "criteria": {
       "mezo_fossil": "2025-05-31 01:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-31 01:56:06 +0000"
     },
     "done": true
   },

@@ -105,6 +105,7 @@
     "criteria": {
       "ancient_delta": "2025-05-30 18:56:18 +0000",
       "redstone_caves": "2025-05-30 19:12:29 +0000",
+      "ochard": "2025-05-31 01:42:26 +0000",
       "magnolia_highlands": "2025-05-26 02:55:30 +0000",
       "sparse_redwoods": "2025-05-26 03:00:19 +0000",
       "deciduous_forest": "2025-05-26 02:44:22 +0000",
@@ -115,6 +116,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "ochard": "2025-05-31 01:42:26 +0000",
       "magnolia_highlands": "2025-05-26 02:55:30 +0000",
       "sparse_redwoods": "2025-05-26 03:00:19 +0000",
       "deciduous_forest": "2025-05-26 02:44:22 +0000",
@@ -1108,6 +1110,7 @@
       "minecraft:pillager": "2025-05-30 03:32:46 +0000",
       "minecraft:skeleton": "2025-05-26 03:03:28 +0000",
       "minecraft:spider": "2025-05-30 03:51:11 +0000",
+      "minecraft:witch": "2025-05-31 01:53:56 +0000",
       "minecraft:zombie": "2025-05-26 03:00:58 +0000"
     },
     "done": false
@@ -4271,6 +4274,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-05-31 01:45:15 +0000",
+      "minecraft:cow": "2025-05-31 01:45:20 +0000",
       "minecraft:chicken": "2025-05-30 04:03:10 +0000"
     },
     "done": false
@@ -4942,9 +4947,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-31 01:36:41 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_oak": "2025-05-31 01:41:20 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
     },
     "done": true
   },
@@ -4954,9 +5001,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/explorers_tent": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-31 01:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-31 01:41:31 +0000"
     },
     "done": true
   },
@@ -4978,9 +5073,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
   "beautify:candelabras": {
     "criteria": {
       "requirement": "2025-05-31 01:32:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-31 01:42:32 +0000"
     },
     "done": true
   },
