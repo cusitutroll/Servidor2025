@@ -10744,9 +10744,93 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:36:35 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/yellow_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },
@@ -10765,6 +10849,12 @@
   "valhelsia_furniture:recipes/decorations/brown_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },
@@ -10846,6 +10936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_nether_brick": "2025-05-31 04:33:30 +0000"
@@ -10861,6 +10957,18 @@
   "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },
@@ -10885,6 +10993,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },
@@ -10918,6 +11032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
+    },
+    "done": true
+  },
   "beautify:lamp_jar": {
     "criteria": {
       "requirement": "2025-05-31 04:50:34 +0000"
@@ -10930,6 +11050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
@@ -10939,6 +11065,12 @@
   "cfm:recipes/decorations/dye_green_picket_gate": {
     "criteria": {
       "has_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },
@@ -10978,15 +11110,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-05-31 04:37:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },
@@ -10999,6 +11149,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-31 04:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },
@@ -11017,6 +11173,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-31 05:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-31 06:30:17 +0000"
     },
     "done": true
   },

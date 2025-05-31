@@ -766,3 +766,13 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [31May2025 06:25:24.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-203, y=127, z=-2205} BlockPos{x=-203, y=128, z=-2204}
 [31May2025 06:25:24.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-203, y=127, z=-2205} BlockPos{x=-203, y=128, z=-2204}
 [31May2025 06:26:16.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[31May2025 06:27:19.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[31May2025 06:30:05.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Timed out
+[31May2025 06:30:05.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[31May2025 06:30:05.458] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 06:30:16.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.235.203.197:46297] logged in with entity id 558713 at (-254.68031167500826, 127.0, -2241.285697058674)
+[31May2025 06:30:16.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[31May2025 06:30:16.188] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[31May2025 06:36:10.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xZ3r0kx lost connection: Disconnected
+[31May2025 06:36:10.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx left the game
+[31May2025 06:36:35.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=128, z=-2202} BlockPos{x=-244, y=129, z=-2198}

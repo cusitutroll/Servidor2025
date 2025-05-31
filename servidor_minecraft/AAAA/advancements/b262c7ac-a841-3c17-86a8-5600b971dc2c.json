@@ -5017,6 +5017,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-31 01:36:41 +0000"
@@ -5062,6 +5068,13 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-31 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-31 06:35:58 +0000",
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
     },
     "done": true
   },
@@ -5118,6 +5131,12 @@
       "has_polished_andesite": "2025-05-31 03:20:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
@@ -5179,6 +5198,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-31 04:01:34 +0000"
@@ -5233,11 +5258,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-31 01:41:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
@@ -5305,6 +5342,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-31 01:36:41 +0000"
@@ -5334,6 +5377,12 @@
       "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
@@ -5365,6 +5414,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-05-31 04:59:46 +0000"
@@ -5382,6 +5437,12 @@
       "has_hay_block": "2025-05-31 01:42:32 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/trade": {
     "criteria": {
@@ -5407,11 +5468,23 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-31 05:00:55 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:35:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
