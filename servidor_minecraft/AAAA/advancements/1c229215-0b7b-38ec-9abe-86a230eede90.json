@@ -112,6 +112,7 @@
       "sparse_redwoods": "2025-05-26 03:00:20 +0000",
       "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
+      "infernal_holt": "2025-05-31 06:37:10 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
       "pine_slopes": "2025-05-31 04:12:48 +0000",
       "grassland": "2025-05-26 02:41:07 +0000",
@@ -854,6 +855,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "brimwood_log": "2025-05-31 06:38:33 +0000",
       "small_oak_log": "2025-05-26 02:37:13 +0000",
       "redwood_log": "2025-05-26 02:57:35 +0000"
     },
@@ -5118,6 +5120,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-31 06:39:39 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
@@ -5160,6 +5234,12 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-31 06:37:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-31 04:01:42 +0000"
@@ -5177,6 +5257,12 @@
       "shot_arrow": "2025-05-31 04:48:44 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "infernal_holt": "2025-05-31 06:37:10 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
     "criteria": {
@@ -5412,6 +5498,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/brimwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 06:38:33 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
@@ -5592,6 +5684,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-31 06:37:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
@@ -5634,6 +5732,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_sapling": "2025-05-31 06:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-31 04:40:33 +0000"
@@ -5643,6 +5747,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-05-31 06:38:45 +0000"
     },
     "done": true
   },
@@ -5673,6 +5783,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_mangrove_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brimwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 06:38:33 +0000"
     },
     "done": true
   },
@@ -5781,6 +5897,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-31 04:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-31 06:37:07 +0000"
     },
     "done": true
   },
