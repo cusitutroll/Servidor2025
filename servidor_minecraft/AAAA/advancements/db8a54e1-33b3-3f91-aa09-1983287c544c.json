@@ -413,6 +413,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-31 05:18:25 +0000",
       "beef": "2025-05-31 01:46:41 +0000",
+      "baked_potato": "2025-05-31 05:25:47 +0000",
       "porkchop": "2025-05-31 01:46:16 +0000",
       "apple": "2025-05-31 04:47:33 +0000",
       "potato": "2025-05-31 05:02:05 +0000",
@@ -1703,9 +1704,21 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
     "criteria": {
       "has_log": "2025-05-31 05:16:23 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-31 05:30:53 +0000"
     },
     "done": true
   },
@@ -1742,6 +1755,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
     },
     "done": true
   },
@@ -1937,6 +1956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 05:01:29 +0000"
@@ -1946,6 +1971,12 @@
   "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-31 05:01:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-05-31 05:24:54 +0000"
     },
     "done": true
   },
@@ -2021,6 +2052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 05:01:25 +0000"
@@ -2090,6 +2127,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 05:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-31 05:21:51 +0000"
     },
     "done": true
   },
@@ -2183,9 +2226,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 05:06:14 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-05-31 05:30:53 +0000"
     },
     "done": true
   },
@@ -2297,6 +2352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 05:01:25 +0000"
@@ -2393,6 +2454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 05:01:25 +0000"
@@ -2438,6 +2505,12 @@
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2025-05-31 05:01:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-05-31 05:25:23 +0000"
     },
     "done": true
   },
@@ -2528,6 +2601,12 @@
   "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-05-31 05:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
     },
     "done": true
   },
@@ -2633,6 +2712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-31 05:16:29 +0000"
@@ -2651,6 +2736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_grill": {
     "criteria": {
       "has_iron": "2025-05-31 05:01:25 +0000"
@@ -2666,6 +2757,24 @@
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 05:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-31 05:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-31 05:30:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-05-31 05:25:16 +0000"
     },
     "done": true
   },
