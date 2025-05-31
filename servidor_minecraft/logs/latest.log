@@ -4,3 +4,11 @@
 [31May2025 01:04:26.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xZ3r0kx[/127.56.156.83:33743] logged in with entity id 27889 at (-970.7706996601288, 62.07326432466506, -637.3125)
 [31May2025 01:04:26.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx joined the game
 [31May2025 01:04:27.153] [Server thread/INFO] [Jade/]: Syncing config to xZ3r0kx (b262c7ac-a841-3c17-86a8-5600b971dc2c)
+[31May2025 01:12:13.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandagamerP[/127.74.19.90:44105] logged in with entity id 37158 at (125.24248106905235, 136.0, -472.30000001192093)
+[31May2025 01:12:13.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
+[31May2025 01:12:14.098] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
+[31May2025 01:14:17.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx drowned
+[31May2025 01:14:17.431] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-968, 9, -614) minecraft:overworld
+[31May2025 01:14:48.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BgodYT[/127.197.63.191:60063] logged in with entity id 40298 at (-999.6999999880791, 54.0, -740.785811283474)
+[31May2025 01:14:48.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT joined the game
+[31May2025 01:14:48.453] [Server thread/INFO] [Jade/]: Syncing config to BgodYT (1c229215-0b7b-38ec-9abe-86a230eede90)
