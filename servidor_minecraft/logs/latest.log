@@ -473,3 +473,111 @@
 [31May2025 04:10:59.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/352875, l='ServerLevel[AAAA]', x=589.13, y=53.23, z=-298.21] died: Restless Spirit was dragged underground by Dorcel
 [31May2025 04:12:22.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
 [31May2025 04:13:35.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/354742, l='ServerLevel[AAAA]', x=100.96, y=-20.00, z=-500.58] died: Toxic Slime was killed
+[31May2025 04:13:50.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/354817, l='ServerLevel[AAAA]', x=114.97, y=95.00, z=-751.77] died: Toxic Slime fell from a high place
+[31May2025 04:13:53.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/354686, l='ServerLevel[AAAA]', x=112.91, y=-20.00, z=-550.74] died: Toxic Slime was killed
+[31May2025 04:14:38.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355324, l='ServerLevel[AAAA]', x=82.37, y=60.00, z=-633.78] died: Toxic Slime fell from a high place
+[31May2025 04:14:39.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355450, l='ServerLevel[AAAA]', x=74.89, y=55.00, z=-629.98] died: Toxic Slime fell from a high place
+[31May2025 04:14:40.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355462, l='ServerLevel[AAAA]', x=146.82, y=59.00, z=-522.33] died: Toxic Slime fell from a high place
+[31May2025 04:14:45.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355680, l='ServerLevel[AAAA]', x=86.76, y=83.00, z=-581.08] died: Toxic Slime fell from a high place
+[31May2025 04:14:50.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355679, l='ServerLevel[AAAA]', x=114.84, y=30.00, z=-592.87] died: Toxic Slime fell from a high place
+[31May2025 04:14:58.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355723, l='ServerLevel[AAAA]', x=130.62, y=32.00, z=-538.79] died: Toxic Slime fell from a high place
+[31May2025 04:15:03.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356055, l='ServerLevel[AAAA]', x=145.99, y=31.00, z=-610.44] died: Toxic Slime fell from a high place
+[31May2025 04:15:04.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355317, l='ServerLevel[AAAA]', x=88.11, y=36.00, z=-594.73] died: Toxic Slime fell from a high place
+[31May2025 04:15:05.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356045, l='ServerLevel[AAAA]', x=89.97, y=62.00, z=-638.97] died: Toxic Slime fell from a high place
+[31May2025 04:15:06.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356043, l='ServerLevel[AAAA]', x=138.30, y=28.00, z=-632.33] died: Toxic Slime fell from a high place
+[31May2025 04:15:07.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/355438, l='ServerLevel[AAAA]', x=89.09, y=62.00, z=-539.17] died: Toxic Slime fell from a high place
+[31May2025 04:15:08.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356036, l='ServerLevel[AAAA]', x=-3.08, y=58.00, z=-565.30] died: Toxic Slime fell from a high place
+[31May2025 04:15:10.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356025, l='ServerLevel[AAAA]', x=51.59, y=56.00, z=-644.13] died: Toxic Slime fell from a high place
+[31May2025 04:15:15.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356190, l='ServerLevel[AAAA]', x=116.00, y=60.00, z=-493.91] died: Toxic Slime fell from a high place
+[31May2025 04:15:22.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356376, l='ServerLevel[AAAA]', x=25.41, y=42.00, z=-480.18] died: Toxic Slime fell from a high place
+[31May2025 04:15:34.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/356388, l='ServerLevel[AAAA]', x=-6.96, y=63.00, z=-567.46] died: Toxic Slime fell from a high place
+[31May2025 04:15:53.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/357144, l='ServerLevel[AAAA]', x=-8.45, y=63.00, z=-559.13] died: Toxic Slime fell from a high place
+[31May2025 04:15:58.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/357133, l='ServerLevel[AAAA]', x=-70.58, y=27.00, z=-524.33] died: Toxic Slime fell from a high place
+[31May2025 04:17:38.567] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1856) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23407!/:?]
+	... 33 more
+[31May2025 04:19:21.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.33522847745655326
+[31May2025 04:19:21.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.5147821821678917
+[31May2025 04:19:31.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Blindfolded]
+[31May2025 04:20:11.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.381876968276174
+[31May2025 04:20:27.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[31May2025 04:20:42.445] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/362915, l='ServerLevel[AAAA]', x=-1155.50, y=78.00, z=-1569.50]
+[31May2025 04:20:42.794] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/362917, l='ServerLevel[AAAA]', x=-1170.50, y=75.00, z=-1564.50]
+[31May2025 04:21:21.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/363433, l='ServerLevel[AAAA]', x=-1170.50, y=75.00, z=-1563.50]
+[31May2025 04:23:55.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.2850918035344421
+[31May2025 04:23:55.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.395376399934662
+[31May2025 04:23:55.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.49536476385515016
+[31May2025 04:23:55.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xZ3r0kx) moved wrongly! 0.5860836734824488
+[31May2025 04:26:30.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31May2025 04:33:08.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxHar8xX[/127.102.44.217:56299] logged in with entity id 371368 at (-967.3567708816018, 81.0, -739.9981650893329)
+[31May2025 04:33:08.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX joined the game
+[31May2025 04:33:08.567] [Server thread/INFO] [Jade/]: Syncing config to XxHar8xX (db8a54e1-33b3-3f91-aa09-1983287c544c)
+[31May2025 04:34:57.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxHar8xX lost connection: Disconnected
+[31May2025 04:34:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX left the game
+[31May2025 04:35:11.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxHar8xX[/127.102.44.217:52117] logged in with entity id 372468 at (-965.0362421405043, 78.0, -716.0405295159387)
+[31May2025 04:35:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX joined the game
+[31May2025 04:35:11.371] [Server thread/INFO] [Jade/]: Syncing config to XxHar8xX (db8a54e1-33b3-3f91-aa09-1983287c544c)
+[31May2025 04:36:19.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Eternal Expedition]
+[31May2025 04:38:39.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Spooky Scary Skeleton]
+[31May2025 04:39:15.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xZ3r0kx with unique ID 840f922c-382d-4368-b5bb-7c530fb19740
+[31May2025 04:39:15.311] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 86 Y: 143 Z: -503
+[31May2025 04:39:15.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was slain by Vindicator
+[31May2025 04:39:15.314] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(90, 142, -502) minecraft:overworld
+[31May2025 04:39:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX has made the advancement [Suit Up]
+[31May2025 04:39:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx drowned
+[31May2025 04:41:25.152] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:42:04.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandagamerP moved wrongly!
+[31May2025 04:43:40.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[31May2025 04:43:49.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[31May2025 04:45:21.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [What a Deal!]
+[31May2025 04:47:26.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has made the advancement [Take Aim]
+[31May2025 04:47:29.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was slain by Vindicator
+[31May2025 04:47:29.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(123, 133, -479) minecraft:overworld
+[31May2025 04:47:37.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Voluntary Exile]
+[31May2025 04:48:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX has made the advancement [Stone Age]
+[31May2025 04:48:34.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX has made the advancement [Getting an Upgrade]
+[31May2025 04:48:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has made the advancement [Take Aim]
+[31May2025 04:48:48.361] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:50:45.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PandagamerP> Voy lag?
+[31May2025 04:50:51.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xZ3r0kx> so
+[31May2025 04:50:54.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xZ3r0kx> si
+[31May2025 04:51:39.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX was slain by Vampire in Flight
+[31May2025 04:51:39.461] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998, -10, -714) minecraft:overworld
+[31May2025 04:54:19.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=40, y=74, z=-171}
+[31May2025 04:54:19.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=74, z=-172}

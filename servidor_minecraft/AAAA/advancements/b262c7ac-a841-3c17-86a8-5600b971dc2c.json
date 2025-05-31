@@ -119,6 +119,7 @@
       "cold_river": "2025-05-31 04:06:59 +0000",
       "pine_slopes": "2025-05-31 04:11:04 +0000",
       "grassland": "2025-05-26 02:52:51 +0000",
+      "prairie": "2025-05-31 04:23:33 +0000",
       "redwoods": "2025-05-26 02:55:27 +0000",
       "bioshroom_caves": "2025-05-31 04:05:05 +0000"
     },
@@ -140,6 +141,7 @@
       "cold_river": "2025-05-31 04:06:59 +0000",
       "pine_slopes": "2025-05-31 04:11:04 +0000",
       "grassland": "2025-05-26 02:52:51 +0000",
+      "prairie": "2025-05-31 04:23:33 +0000",
       "redwoods": "2025-05-26 02:55:27 +0000"
     },
     "done": false
@@ -980,6 +982,7 @@
       "dried_kelp": "2025-05-27 04:29:18 +0000",
       "melon_slice": "2025-05-30 16:42:35 +0000",
       "beetroot": "2025-05-30 03:48:18 +0000",
+      "cooked_chicken": "2025-05-31 04:15:41 +0000",
       "cooked_salmon": "2025-05-28 02:48:22 +0000",
       "carrot": "2025-05-30 03:47:37 +0000"
     },
@@ -1121,7 +1124,9 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-31 04:06:39 +0000",
       "minecraft:cherry_grove": "2025-05-31 04:06:48 +0000",
+      "minecraft:sunflower_plains": "2025-05-31 04:22:17 +0000",
       "minecraft:birch_forest": "2025-05-31 04:06:03 +0000",
+      "minecraft:beach": "2025-05-31 04:20:53 +0000",
       "minecraft:stony_peaks": "2025-05-26 03:00:39 +0000",
       "minecraft:lukewarm_ocean": "2025-05-27 04:24:20 +0000",
       "minecraft:river": "2025-05-31 03:18:49 +0000",
@@ -1144,6 +1149,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-30 03:32:46 +0000",
       "minecraft:skeleton": "2025-05-26 03:03:28 +0000",
+      "minecraft:vindicator": "2025-05-31 04:50:38 +0000",
       "minecraft:spider": "2025-05-30 03:51:11 +0000",
       "minecraft:creeper": "2025-05-31 03:33:10 +0000",
       "minecraft:witch": "2025-05-31 01:53:56 +0000",
@@ -2071,6 +2077,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-05-31 04:42:18 +0000",
       "small_oak_log": "2025-05-27 04:23:01 +0000",
       "redwood_log": "2025-05-30 18:44:16 +0000"
     },
@@ -4990,6 +4997,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
     "criteria": {
       "has_hay_block": "2025-05-31 01:42:32 +0000"
@@ -5007,6 +5020,12 @@
       "in_village_oak": "2025-05-31 01:41:20 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
+    },
+    "done": true
   },
   "beautify:lamps": {
     "criteria": {
@@ -5029,6 +5048,18 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-31 01:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-31 04:47:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 04:42:18 +0000"
     },
     "done": true
   },
@@ -5056,6 +5087,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-31 01:41:31 +0000"
@@ -5077,6 +5114,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 02:23:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
     },
     "done": true
   },
@@ -5146,6 +5189,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/explorers_tent": {
     "criteria": {
       "has_leather": "2025-05-31 01:41:31 +0000"
@@ -5188,9 +5237,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-31 04:50:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_hoe_repairing": {
     "criteria": {
       "has_iron_hoe": "2025-05-31 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-05-31 04:42:18 +0000"
     },
     "done": true
   },
@@ -5230,6 +5291,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-05-31 04:42:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-05-31 04:01:34 +0000"
@@ -5242,9 +5309,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-31 04:01:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
     },
     "done": true
   },
@@ -5296,6 +5375,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-05-31 03:20:27 +0000"
@@ -5317,6 +5402,18 @@
   "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
     "criteria": {
       "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-05-31 04:19:31 +0000"
     },
     "done": true
   },
@@ -5344,9 +5441,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-05-31 04:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2025-05-31 04:42:19 +0000"
     },
     "done": true
   },

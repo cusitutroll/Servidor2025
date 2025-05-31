@@ -110,9 +110,12 @@
       "flower_fields": "2025-05-31 03:49:46 +0000",
       "magnolia_highlands": "2025-05-26 02:42:58 +0000",
       "sparse_redwoods": "2025-05-26 03:00:20 +0000",
+      "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
+      "pine_slopes": "2025-05-31 04:12:48 +0000",
       "grassland": "2025-05-26 02:41:07 +0000",
+      "prairie": "2025-05-31 04:23:27 +0000",
       "redwoods": "2025-05-26 02:42:05 +0000"
     },
     "done": false
@@ -125,9 +128,12 @@
       "flower_fields": "2025-05-31 03:49:46 +0000",
       "magnolia_highlands": "2025-05-26 02:42:58 +0000",
       "sparse_redwoods": "2025-05-26 03:00:20 +0000",
+      "mountains": "2025-05-31 04:12:35 +0000",
       "deciduous_forest": "2025-05-26 02:26:33 +0000",
       "bamboo_forest": "2025-05-26 02:41:54 +0000",
+      "pine_slopes": "2025-05-31 04:12:48 +0000",
       "grassland": "2025-05-26 02:41:07 +0000",
+      "prairie": "2025-05-31 04:23:27 +0000",
       "redwoods": "2025-05-26 02:42:05 +0000"
     },
     "done": false
@@ -1075,13 +1081,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-31 04:19:00 +0000",
+      "minecraft:sunflower_plains": "2025-05-31 04:22:14 +0000",
+      "minecraft:beach": "2025-05-31 04:21:29 +0000",
       "minecraft:stony_peaks": "2025-05-26 03:00:43 +0000",
       "minecraft:lukewarm_ocean": "2025-05-27 04:24:21 +0000",
       "minecraft:river": "2025-05-31 03:18:49 +0000",
       "minecraft:stony_shore": "2025-05-31 03:49:47 +0000",
+      "minecraft:jagged_peaks": "2025-05-31 04:18:55 +0000",
       "minecraft:lush_caves": "2025-05-31 03:52:53 +0000",
+      "minecraft:ocean": "2025-05-31 04:21:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-28 02:28:49 +0000",
       "minecraft:flower_forest": "2025-05-31 03:29:45 +0000",
+      "minecraft:meadow": "2025-05-31 04:19:04 +0000",
+      "minecraft:savanna": "2025-05-31 04:21:35 +0000",
       "minecraft:plains": "2025-05-31 03:28:25 +0000"
     },
     "done": false
@@ -1090,6 +1103,8 @@
     "criteria": {
       "minecraft:pillager": "2025-05-31 03:35:27 +0000",
       "minecraft:skeleton": "2025-05-26 03:01:58 +0000",
+      "minecraft:ravager": "2025-05-31 04:49:06 +0000",
+      "minecraft:vindicator": "2025-05-31 04:40:32 +0000",
       "minecraft:spider": "2025-05-26 03:15:11 +0000",
       "minecraft:enderman": "2025-05-26 03:22:50 +0000",
       "minecraft:silverfish": "2025-05-31 02:19:14 +0000",
@@ -5141,9 +5156,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-31 04:48:44 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-31 04:16:22 +0000"
     },
     "done": true
   },
@@ -5168,6 +5195,18 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-05-31 04:42:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-05-31 04:42:16 +0000"
     },
     "done": true
   },
@@ -5207,9 +5246,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-31 04:16:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-31 04:16:22 +0000"
     },
     "done": true
   },
@@ -5309,6 +5360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-31 04:42:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
@@ -5336,6 +5393,12 @@
   "valhelsia_furniture:recipes/decorations/black_acacia_table": {
     "criteria": {
       "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-05-31 04:42:16 +0000"
     },
     "done": true
   },
@@ -5489,6 +5552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-31 04:40:33 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
@@ -5528,6 +5597,12 @@
   "valhelsia_furniture:recipes/decorations/black_crimson_table": {
     "criteria": {
       "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 04:45:21 +0000"
     },
     "done": true
   },
@@ -5636,6 +5711,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-31 04:16:22 +0000"
     },
     "done": true
   },
