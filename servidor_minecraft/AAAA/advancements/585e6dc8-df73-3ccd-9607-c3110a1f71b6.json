@@ -9477,6 +9477,18 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-05-31 02:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-31 02:00:14 +0000"
+    },
+    "done": true
+  },
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-05-31 01:39:10 +0000"
