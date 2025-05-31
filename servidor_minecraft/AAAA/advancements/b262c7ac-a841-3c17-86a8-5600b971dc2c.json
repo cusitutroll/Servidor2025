@@ -1149,9 +1149,11 @@
     "criteria": {
       "minecraft:pillager": "2025-05-30 03:32:46 +0000",
       "minecraft:skeleton": "2025-05-26 03:03:28 +0000",
+      "minecraft:ravager": "2025-05-31 04:54:00 +0000",
       "minecraft:vindicator": "2025-05-31 04:50:38 +0000",
       "minecraft:spider": "2025-05-30 03:51:11 +0000",
       "minecraft:creeper": "2025-05-31 03:33:10 +0000",
+      "minecraft:evoker": "2025-05-31 04:54:56 +0000",
       "minecraft:witch": "2025-05-31 01:53:56 +0000",
       "minecraft:zombie": "2025-05-26 03:00:58 +0000"
     },
@@ -4997,6 +4999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 05:00:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/magnolia_button": {
     "criteria": {
       "has_magnolia_planks": "2025-05-31 04:42:26 +0000"
@@ -5108,6 +5116,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-05-31 03:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 05:00:55 +0000"
     },
     "done": true
   },
@@ -5225,6 +5239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 05:00:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-05-31 01:41:31 +0000"
@@ -5315,6 +5335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 05:00:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-31 04:01:34 +0000"
@@ -5336,6 +5362,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-05-31 03:21:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-31 04:59:46 +0000"
     },
     "done": true
   },
@@ -5363,9 +5395,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 05:00:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-05-31 03:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-05-31 05:00:55 +0000"
     },
     "done": true
   },

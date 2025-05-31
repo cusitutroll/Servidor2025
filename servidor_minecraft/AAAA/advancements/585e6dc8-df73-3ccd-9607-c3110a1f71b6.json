@@ -1358,6 +1358,7 @@
       "minecraft:piglin_brute": "2025-05-26 02:26:09 +0000",
       "minecraft:creeper": "2025-05-20 02:57:01 +0000",
       "minecraft:slime": "2025-05-26 02:29:07 +0000",
+      "minecraft:evoker": "2025-05-31 04:58:21 +0000",
       "minecraft:phantom": "2025-05-20 02:11:09 +0000",
       "minecraft:zombified_piglin": "2025-05-26 02:25:23 +0000",
       "minecraft:witch": "2025-05-19 06:56:39 +0000",
@@ -1365,6 +1366,7 @@
       "minecraft:cave_spider": "2025-05-20 04:14:50 +0000",
       "minecraft:piglin": "2025-05-26 02:22:51 +0000",
       "minecraft:silverfish": "2025-05-18 05:03:27 +0000",
+      "minecraft:vex": "2025-05-31 04:57:55 +0000",
       "minecraft:zombie": "2025-05-18 04:24:38 +0000",
       "minecraft:zombie_villager": "2025-05-19 22:48:58 +0000"
     },
@@ -10802,6 +10804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-31 05:14:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-05-31 04:37:13 +0000"
@@ -10832,9 +10840,21 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-31 05:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-05-31 04:53:30 +0000"
     },
     "done": true
   },
@@ -10853,6 +10873,12 @@
   "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-31 04:59:46 +0000"
     },
     "done": true
   },
@@ -10901,6 +10927,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-31 05:14:03 +0000"
     },
     "done": true
   },

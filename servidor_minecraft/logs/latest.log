@@ -581,3 +581,96 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [31May2025 04:51:39.461] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998, -10, -714) minecraft:overworld
 [31May2025 04:54:19.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=40, y=74, z=-171}
 [31May2025 04:54:19.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=74, z=-172}
+[31May2025 04:56:13.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX was shot by PandagamerP
+[31May2025 04:56:32.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxHar8xX lost connection: Disconnected
+[31May2025 04:56:32.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX left the game
+[31May2025 04:56:44.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XxHar8xX[/127.102.44.217:35439] logged in with entity id 408244 at (29.5, 75.0, -167.5)
+[31May2025 04:56:44.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX joined the game
+[31May2025 04:56:44.726] [Server thread/INFO] [Jade/]: Syncing config to XxHar8xX (db8a54e1-33b3-3f91-aa09-1983287c544c)
+[31May2025 04:56:53.610] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BgodYT with unique ID d522ed7b-23d3-467a-9fd1-e03a52d9af78
+[31May2025 04:56:53.611] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 90 Y: 127 Z: -484
+[31May2025 04:56:53.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Vex
+[31May2025 04:56:53.612] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(92, 127, -485) minecraft:overworld
+[31May2025 04:57:05.011] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:57:39.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was killed by Evoker using magic
+[31May2025 04:57:39.508] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(131, 136, -479) minecraft:overworld
+[31May2025 04:57:45.611] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:57:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was slain by Vindicator
+[31May2025 04:57:46.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(130, 134, -481) minecraft:overworld
+[31May2025 04:57:49.912] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:58:22.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has reached the goal [Postmortal]
+[31May2025 04:58:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX has made the advancement [Sweet Dreams]
+[31May2025 04:58:58.556] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for PandagamerP with unique ID 18975c16-b36d-42bc-b0bd-4735d8a92dab
+[31May2025 04:58:58.557] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 117 Y: 143 Z: -472
+[31May2025 04:58:58.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP was slain by Vex
+[31May2025 04:58:58.560] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(119, 144, -474) minecraft:overworld
+[31May2025 04:59:07.006] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:59:07.006] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:59:07.006] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:59:31.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/374632, l='ServerLevel[AAAA]', x=117.51, y=131.00, z=-485.49] died, message: 'Librarian was killed by Evoker using magic'
+[31May2025 04:59:36.698] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/374613, l='ServerLevel[AAAA]', x=133.48, y=131.56, z=-480.79] died, message: 'Farmer was slain by Iron Golem'
+[31May2025 04:59:44.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX was slain by Vex
+[31May2025 04:59:44.404] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(133, 136, -479) minecraft:overworld
+[31May2025 04:59:46.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT has completed the challenge [Hero of the Village]
+[31May2025 04:59:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has completed the challenge [Hero of the Village]
+[31May2025 04:59:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx has completed the challenge [Hero of the Village]
+[31May2025 04:59:51.953] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BgodYT with unique ID d092ef73-4746-4c7b-aaea-bbc28e6251ed
+[31May2025 04:59:51.953] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 113 Y: 135 Z: -487
+[31May2025 04:59:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BgodYT was slain by Vex
+[31May2025 04:59:51.955] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(112, 135, -487) minecraft:overworld
+[31May2025 04:59:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was slain by Vex
+[31May2025 04:59:57.654] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(110, 135, -488) minecraft:overworld
+[31May2025 05:00:02.383] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 05:00:03.109] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 05:00:03.109] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 05:01:25.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX has made the advancement [Acquire Hardware]
+[31May2025 05:01:29.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.235.203.197:47425] logged in with entity id 417990 at (530.2688028259706, 84.0, -355.46401879818455)
+[31May2025 05:01:29.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[31May2025 05:01:29.700] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[31May2025 05:03:39.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX has made the advancement [Isn't It Iron Pick]
+[31May2025 05:06:16.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX fell from a high place
+[31May2025 05:06:16.811] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998, 35, -719) minecraft:overworld
+[31May2025 05:11:18.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=132, z=-2201} BlockPos{x=-251, y=131, z=-2198}
+[31May2025 05:11:18.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=133, z=-2201} BlockPos{x=-251, y=131, z=-2198}
+[31May2025 05:11:18.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-253, y=133, z=-2201} BlockPos{x=-251, y=131, z=-2198}
+[31May2025 05:11:18.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-254, y=133, z=-2202} BlockPos{x=-251, y=131, z=-2198}
+[31May2025 05:11:25.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=130, z=-2206} BlockPos{x=-257, y=130, z=-2206}
+[31May2025 05:11:25.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=130, z=-2206} BlockPos{x=-257, y=130, z=-2206}
+[31May2025 05:11:25.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-258, y=130, z=-2206} BlockPos{x=-257, y=130, z=-2206}
+[31May2025 05:11:25.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-259, y=130, z=-2205} BlockPos{x=-257, y=130, z=-2206}
+[31May2025 05:11:25.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-259, y=130, z=-2205} BlockPos{x=-257, y=130, z=-2206}
+[31May2025 05:11:28.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-263, y=131, z=-2203} BlockPos{x=-262, y=130, z=-2203}
+[31May2025 05:11:28.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-263, y=131, z=-2203} BlockPos{x=-262, y=130, z=-2203}
+[31May2025 05:11:50.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=129, z=-2239} BlockPos{x=-230, y=130, z=-2240}
+[31May2025 05:11:50.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=129, z=-2240} BlockPos{x=-230, y=130, z=-2240}
+[31May2025 05:11:50.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=129, z=-2240} BlockPos{x=-230, y=130, z=-2240}
+[31May2025 05:11:50.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=129, z=-2240} BlockPos{x=-230, y=130, z=-2240}
+[31May2025 05:11:50.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-231, y=130, z=-2242} BlockPos{x=-230, y=130, z=-2240}
+[31May2025 05:12:11.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=130, z=-2236} BlockPos{x=-222, y=130, z=-2237}
+[31May2025 05:12:11.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=130, z=-2236} BlockPos{x=-222, y=130, z=-2237}
+[31May2025 05:12:11.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=130, z=-2236} BlockPos{x=-222, y=130, z=-2237}
+[31May2025 05:12:11.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=130, z=-2236} BlockPos{x=-222, y=130, z=-2237}
+[31May2025 05:12:11.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=130, z=-2236} BlockPos{x=-222, y=130, z=-2237}
+[31May2025 05:12:11.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=130, z=-2236} BlockPos{x=-222, y=130, z=-2237}
+[31May2025 05:12:11.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=130, z=-2236} BlockPos{x=-222, y=130, z=-2237}
+[31May2025 05:15:13.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.271] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[31May2025 05:15:13.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 has made the advancement [Withering Heights]
+[31May2025 05:15:13.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Withering Heights]
+[31May2025 05:16:45.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityRaccoon['Mordecai'/443324, l='ServerLevel[AAAA]', x=120.50, y=137.44, z=-473.50] died: Mordecai was killed by PandagamerP using magic
+[31May2025 05:16:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX fell from a high place
+[31May2025 05:16:54.807] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-998, 34, -717) minecraft:overworld
+[31May2025 05:21:26.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-543, y=63, z=-667} BlockPos{x=-545, y=61, z=-668}
+[31May2025 05:21:31.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=63, z=-675} BlockPos{x=-524, y=62, z=-675}
+[31May2025 05:21:57.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-527, y=63, z=-687} BlockPos{x=-526, y=63, z=-687}
+[31May2025 05:21:57.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-527, y=63, z=-687} BlockPos{x=-528, y=63, z=-687}
+[31May2025 05:21:59.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-536, y=63, z=-691} BlockPos{x=-534, y=63, z=-691}
+[31May2025 05:22:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxHar8xX was slain by Zombie
+[31May2025 05:22:27.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-992, 51, -720) minecraft:overworld
