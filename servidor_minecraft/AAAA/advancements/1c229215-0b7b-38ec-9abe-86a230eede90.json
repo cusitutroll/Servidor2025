@@ -104,6 +104,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-05-31 03:25:40 +0000",
+      "ancient_delta": "2025-05-31 03:52:57 +0000",
       "grassy_beach": "2025-05-28 02:59:41 +0000",
       "rocky_meadow": "2025-05-31 03:43:07 +0000",
       "flower_fields": "2025-05-31 03:49:46 +0000",
@@ -1078,6 +1079,7 @@
       "minecraft:lukewarm_ocean": "2025-05-27 04:24:21 +0000",
       "minecraft:river": "2025-05-31 03:18:49 +0000",
       "minecraft:stony_shore": "2025-05-31 03:49:47 +0000",
+      "minecraft:lush_caves": "2025-05-31 03:52:53 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-28 02:28:49 +0000",
       "minecraft:flower_forest": "2025-05-31 03:29:45 +0000",
       "minecraft:plains": "2025-05-31 03:28:25 +0000"
@@ -5127,6 +5129,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_warped_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:01:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
@@ -5169,6 +5183,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_cherry_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
@@ -5205,6 +5225,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_mangrove_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
@@ -5223,6 +5249,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-05-31 03:52:57 +0000"
+    },
+    "done": false
+  },
   "simplyswords:icewhisper": {
     "criteria": {
       "requirement": "2025-05-31 03:11:04 +0000"
@@ -5232,6 +5264,18 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:02:08 +0000"
     },
     "done": true
   },
@@ -5289,6 +5333,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_acacia_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
@@ -5331,6 +5381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:02:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-05-31 03:20:39 +0000"
@@ -5355,9 +5411,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:02:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:02:08 +0000"
     },
     "done": true
   },
@@ -5409,6 +5477,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_spruce_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-31 04:01:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
@@ -5445,9 +5525,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_crimson_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:02:08 +0000"
     },
     "done": true
   },
@@ -5466,6 +5558,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_oak_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
     },
     "done": true
   },
@@ -5499,6 +5597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-31 04:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-05-31 03:31:29 +0000"
@@ -5508,6 +5612,18 @@
   "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_dark_oak_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_jungle_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
     },
     "done": true
   },
@@ -5544,6 +5660,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-05-31 02:53:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_table": {
+    "criteria": {
+      "has_black_carpet": "2025-05-31 04:05:42 +0000"
     },
     "done": true
   },

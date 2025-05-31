@@ -459,3 +459,17 @@
 [31May2025 03:51:31.842] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/340171, l='ServerLevel[AAAA]', x=-1148.50, y=81.00, z=-1571.50]
 [31May2025 03:51:39.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/340200, l='ServerLevel[AAAA]', x=-1168.50, y=75.00, z=-1564.50]
 [31May2025 03:52:01.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/340342, l='ServerLevel[AAAA]', x=-1160.50, y=77.00, z=-1566.50]
+[31May2025 03:54:09.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[31May2025 03:54:18.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[31May2025 03:54:49.293] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/341084, l='ServerLevel[AAAA]', x=157.14, y=-20.00, z=-555.30] died: Toxic Slime was killed
+[31May2025 04:02:04.047] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xZ3r0kx with unique ID 16bace70-63ed-4e1b-b8a6-67e8149ee9c8
+[31May2025 04:02:04.048] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -922 Y: 64 Z: -1942
+[31May2025 04:02:04.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was slain by Kobold
+[31May2025 04:02:04.049] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-923, 64, -1943) minecraft:overworld
+[31May2025 04:04:13.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 moved wrongly!
+[31May2025 04:08:24.321] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[31May2025 04:09:39.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[31May2025 04:09:39.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[31May2025 04:10:59.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/352875, l='ServerLevel[AAAA]', x=589.13, y=53.23, z=-298.21] died: Restless Spirit was dragged underground by Dorcel
+[31May2025 04:12:22.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[31May2025 04:13:35.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/354742, l='ServerLevel[AAAA]', x=100.96, y=-20.00, z=-500.58] died: Toxic Slime was killed
