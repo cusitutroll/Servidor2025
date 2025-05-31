@@ -10774,6 +10774,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-31 04:47:37 +0000"
@@ -10783,6 +10789,12 @@
   "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-05-31 06:11:06 +0000"
     },
     "done": true
   },
@@ -10804,9 +10816,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-31 05:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-31 06:13:13 +0000"
     },
     "done": true
   },
@@ -10840,9 +10864,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-05-31 05:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 06:13:13 +0000"
     },
     "done": true
   },
@@ -10852,9 +10888,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-05-31 06:11:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
       "has_leather_leggings": "2025-05-31 04:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-31 06:13:32 +0000"
     },
     "done": true
   },
@@ -10876,6 +10936,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_green_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-05-31 04:59:46 +0000"
@@ -10885,6 +10957,18 @@
   "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-31 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_green_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-05-31 06:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-05-31 06:13:13 +0000"
     },
     "done": true
   },

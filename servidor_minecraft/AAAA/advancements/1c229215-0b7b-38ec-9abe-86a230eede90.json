@@ -5130,6 +5130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-31 05:44:32 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
@@ -5199,6 +5205,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 05:21:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-31 05:44:27 +0000"
     },
     "done": true
   },
@@ -5436,6 +5448,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-31 05:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
@@ -5493,6 +5511,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 03:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-31 05:44:27 +0000"
     },
     "done": true
   },
@@ -5655,6 +5679,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-05-31 04:59:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-31 05:44:27 +0000"
     },
     "done": true
   },
