@@ -2180,15 +2180,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-05-26 03:23:22 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-05-26 03:17:52 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-05-26 03:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-26 03:23:22 +0000"
     },
     "done": true
   },
@@ -2228,15 +2234,27 @@
     },
     "done": true
   },
-  "stellarity:adventure/anger_enderman": {
-    "criteria": {
-      "anger_enderman": "2025-05-26 03:22:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-26 03:23:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/on_death": {
+    "criteria": {
+      "requirement": "2025-05-31 01:30:01 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_stone": "2025-05-31 01:35:51 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
+    "criteria": {
+      "has_oak_shrub": "2025-05-31 01:38:28 +0000"
     },
     "done": true
   },
