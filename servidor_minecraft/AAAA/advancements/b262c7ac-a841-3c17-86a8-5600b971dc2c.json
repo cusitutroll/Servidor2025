@@ -4989,6 +4989,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-31 02:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 02:23:56 +0000"
@@ -5106,6 +5112,18 @@
   "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
     "criteria": {
       "has_hay_block": "2025-05-31 01:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-31 02:55:50 +0000"
     },
     "done": true
   },

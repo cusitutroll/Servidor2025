@@ -9513,6 +9513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 03:07:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 02:43:09 +0000"
@@ -9567,6 +9573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 03:07:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_light_gray_picket_fence": {
     "criteria": {
       "has_dye": "2025-05-31 02:46:20 +0000"
@@ -9609,6 +9621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-31 03:07:36 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
       "has_netherite_leggings": "2025-05-31 02:45:17 +0000"
@@ -9618,6 +9636,12 @@
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 02:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-31 03:07:36 +0000"
     },
     "done": true
   },
@@ -9666,6 +9690,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-31 02:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-31 03:03:03 +0000"
     },
     "done": true
   },
