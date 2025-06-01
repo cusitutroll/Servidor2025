@@ -106,6 +106,7 @@
       "shrubland": "2025-05-19 22:41:17 +0000",
       "redstone_abyss": "2025-05-31 04:36:19 +0000",
       "pine_taiga": "2025-05-20 03:41:21 +0000",
+      "bayou": "2025-06-01 22:37:42 +0000",
       "muddy_river": "2025-05-20 03:39:20 +0000",
       "autumnal_maple_forest": "2025-05-20 04:20:11 +0000",
       "ancient_delta": "2025-05-20 01:14:29 +0000",
@@ -137,6 +138,7 @@
     "criteria": {
       "shrubland": "2025-05-19 22:41:17 +0000",
       "pine_taiga": "2025-05-20 03:41:21 +0000",
+      "bayou": "2025-06-01 22:37:42 +0000",
       "muddy_river": "2025-05-20 03:39:20 +0000",
       "autumnal_maple_forest": "2025-05-20 04:20:11 +0000",
       "grassy_beach": "2025-05-19 20:21:33 +0000",
@@ -1363,6 +1365,7 @@
       "minecraft:zombified_piglin": "2025-05-26 02:25:23 +0000",
       "minecraft:witch": "2025-05-19 06:56:39 +0000",
       "minecraft:wither_skeleton": "2025-05-20 04:31:27 +0000",
+      "minecraft:husk": "2025-06-01 22:32:29 +0000",
       "minecraft:cave_spider": "2025-05-20 04:14:50 +0000",
       "minecraft:piglin": "2025-05-26 02:22:51 +0000",
       "minecraft:silverfish": "2025-05-18 05:03:27 +0000",
@@ -11297,15 +11300,75 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-06-01 22:25:00 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_birch_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_warped_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_jungle_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-06-01 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_table": {
+    "criteria": {
+      "has_gray_carpet": "2025-06-01 22:29:02 +0000"
     },
     "done": true
   },
