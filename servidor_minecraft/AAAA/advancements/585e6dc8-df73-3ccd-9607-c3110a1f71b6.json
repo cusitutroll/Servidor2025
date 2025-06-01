@@ -1412,16 +1412,19 @@
       "minecraft:bamboo_jungle": "2025-05-30 06:03:09 +0000",
       "minecraft:beach": "2025-05-20 03:33:57 +0000",
       "minecraft:stony_peaks": "2025-05-18 04:25:05 +0000",
+      "minecraft:dark_forest": "2025-06-01 22:27:29 +0000",
       "minecraft:sparse_jungle": "2025-05-18 04:36:26 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 04:07:45 +0000",
       "minecraft:river": "2025-05-19 23:20:02 +0000",
       "minecraft:stony_shore": "2025-05-18 05:23:11 +0000",
       "minecraft:dripstone_caves": "2025-06-01 03:52:35 +0000",
       "minecraft:grove": "2025-05-20 04:12:58 +0000",
+      "minecraft:swamp": "2025-06-01 22:26:52 +0000",
       "minecraft:jagged_peaks": "2025-05-20 04:15:59 +0000",
       "minecraft:cold_ocean": "2025-05-20 03:33:49 +0000",
       "minecraft:forest": "2025-05-18 04:36:22 +0000",
       "minecraft:lush_caves": "2025-05-18 04:41:54 +0000",
+      "minecraft:windswept_forest": "2025-06-01 22:27:50 +0000",
       "minecraft:ocean": "2025-05-20 01:13:35 +0000",
       "minecraft:jungle": "2025-05-20 04:08:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-01 04:42:01 +0000",
@@ -11291,6 +11294,18 @@
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-06-01 04:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-01 22:25:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-06-01 22:27:32 +0000"
     },
     "done": true
   },
