@@ -1274,3 +1274,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 03:30:58.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP joined the game
 [01Jun2025 03:30:58.530] [Server thread/INFO] [Jade/]: Syncing config to PandagamerP (585e6dc8-df73-3ccd-9607-c3110a1f71b6)
 [01Jun2025 03:31:00.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[01Jun2025 03:36:46.912] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.193.140.126:38713] logged in with entity id 2518 at (121.70996629680234, 133.0, -473.27223275720183)
+[01Jun2025 03:36:46.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
+[01Jun2025 03:36:47.027] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
+[01Jun2025 03:48:43.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PandagamerP) moved wrongly! 0.33972720768974796
+[01Jun2025 03:48:45.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PandagamerP) moved wrongly! 0.27941980496211727
+[01Jun2025 03:49:35.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19944, l='ServerLevel[AAAA]', x=-64.50, y=78.00, z=-2117.50]
