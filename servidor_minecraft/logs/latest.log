@@ -1294,3 +1294,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 21:51:00.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-254, y=139, z=-2177} BlockPos{x=-256, y=138, z=-2177}
 [01Jun2025 21:51:00.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-255, y=138, z=-2177} BlockPos{x=-256, y=139, z=-2176}
 [01Jun2025 21:51:00.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-255, y=138, z=-2177} BlockPos{x=-256, y=139, z=-2176}
+[01Jun2025 21:52:22.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-236, y=134, z=-2185} BlockPos{x=-236, y=133, z=-2184}
