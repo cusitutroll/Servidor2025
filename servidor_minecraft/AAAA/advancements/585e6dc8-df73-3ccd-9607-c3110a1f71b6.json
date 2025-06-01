@@ -1405,6 +1405,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-20 04:15:48 +0000",
+      "minecraft:taiga": "2025-06-01 04:34:43 +0000",
       "minecraft:deep_ocean": "2025-05-20 03:11:32 +0000",
       "minecraft:cherry_grove": "2025-05-20 04:17:28 +0000",
       "minecraft:birch_forest": "2025-05-20 04:11:47 +0000",
@@ -1423,6 +1424,7 @@
       "minecraft:lush_caves": "2025-05-18 04:41:54 +0000",
       "minecraft:ocean": "2025-05-20 01:13:35 +0000",
       "minecraft:jungle": "2025-05-20 04:08:26 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-01 04:42:01 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-19 23:42:48 +0000",
       "minecraft:frozen_peaks": "2025-05-20 04:13:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-20 04:12:21 +0000",
@@ -5474,6 +5476,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_taiga": "2025-06-01 04:39:19 +0000",
       "in_mineshaft_nether": "2025-05-26 01:53:29 +0000",
       "in_mineshaft_savanna": "2025-05-19 20:15:02 +0000"
     },
@@ -11147,6 +11150,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-01 03:35:39 +0000"
@@ -11156,6 +11165,30 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-01 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/amber_fossil": {
+    "criteria": {
+      "amber_fossil": "2025-06-01 04:38:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
     },
     "done": true
   },
@@ -11189,9 +11222,39 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-06-01 04:46:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-06-01 04:13:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-01 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
     },
     "done": true
   },
@@ -11201,9 +11264,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-01 03:35:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-06-01 04:54:37 +0000"
     },
     "done": true
   },

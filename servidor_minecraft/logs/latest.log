@@ -1291,3 +1291,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 04:07:29.978] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-349, 1, -2495) minecraft:overworld
 [01Jun2025 04:07:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Teleported Kokiri to PandagamerP]
 [01Jun2025 04:07:55.259] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 04:23:07.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/46359, l='ServerLevel[AAAA]', x=-1062.35, y=119.00, z=-2248.17] died, message: 'Unemployed hit the ground too hard'
+[01Jun2025 04:31:44.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [The Power of the Abyss in the Palm of My Hand...]
+[01Jun2025 04:38:48.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has completed the challenge [Unusual Park]
+[01Jun2025 04:46:00.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Eye Spy]
+[01Jun2025 04:48:24.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kokiri lost connection: Timed out
+[01Jun2025 04:48:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri left the game
+[01Jun2025 04:48:24.643] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 04:52:51.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kokiri[/127.193.140.126:52139] logged in with entity id 78045 at (-852.5706057146679, -56.0, -3268.699999988079)
+[01Jun2025 04:52:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri joined the game
+[01Jun2025 04:52:51.361] [Server thread/INFO] [Jade/]: Syncing config to Kokiri (34b7c59a-e80e-318b-af9e-630efabd3250)
+[01Jun2025 04:56:26.488] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kokiri with unique ID eaeeaf21-4179-413f-a2fb-34ca4c09c092
+[01Jun2025 04:56:26.489] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -881 Y: -56 Z: -2796
+[01Jun2025 04:56:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was blown up by Crawler
+[01Jun2025 04:56:26.491] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-880, -56, -2797) minecraft:overworld
+[01Jun2025 04:57:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kokiri> [name:"Death 22:56:27 05-31-2025", x:-880, y:-56, z:-2797, dim:minecraft:overworld]
+[01Jun2025 04:57:55.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[01Jun2025 04:58:22.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[01Jun2025 04:58:27.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Teleported Kokiri to PandagamerP]
+[01Jun2025 04:58:30.048] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[01Jun2025 04:58:39.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Spectator Mode]
+[01Jun2025 04:58:40.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[01Jun2025 05:06:47.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-775, y=-49, z=-1952} BlockPos{x=-776, y=-48, z=-1953}
+[01Jun2025 05:06:58.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-771, y=-53, z=-1950} BlockPos{x=-770, y=-52, z=-1950}
+[01Jun2025 05:07:46.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=-48, z=-1955} BlockPos{x=-804, y=-48, z=-1954}
+[01Jun2025 05:07:46.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-804, y=-48, z=-1954} BlockPos{x=-804, y=-49, z=-1954}
+[01Jun2025 05:09:26.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-789, y=-51, z=-1889} BlockPos{x=-789, y=-52, z=-1890}
+[01Jun2025 05:09:38.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-794, y=-48, z=-1900} BlockPos{x=-794, y=-47, z=-1902}
+[01Jun2025 05:09:38.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-794, y=-48, z=-1900} BlockPos{x=-794, y=-47, z=-1902}
+[01Jun2025 05:10:38.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-767, y=-48, z=-1891} BlockPos{x=-768, y=-50, z=-1892}
+[01Jun2025 05:10:39.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-768, y=-52, z=-1892} BlockPos{x=-768, y=-53, z=-1891}
+[01Jun2025 05:10:39.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-768, y=-52, z=-1892} BlockPos{x=-768, y=-51, z=-1893}
+[01Jun2025 05:10:39.490] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-768, y=-52, z=-1892} BlockPos{x=-768, y=-51, z=-1893}
+[01Jun2025 05:10:39.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-767, y=-52, z=-1889} BlockPos{x=-768, y=-51, z=-1893}
+[01Jun2025 05:10:42.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-767, y=-49, z=-1888} BlockPos{x=-766, y=-49, z=-1888}
+[01Jun2025 05:10:42.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=-47, z=-1888} BlockPos{x=-766, y=-49, z=-1888}
+[01Jun2025 05:10:42.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=-47, z=-1888} BlockPos{x=-766, y=-49, z=-1888}
+[01Jun2025 05:14:39.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=-53, z=-1761} BlockPos{x=-805, y=-53, z=-1762}
+[01Jun2025 05:14:41.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-805, y=-54, z=-1760} BlockPos{x=-806, y=-54, z=-1758}
+[01Jun2025 05:16:42.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-825, y=-36, z=-1739} BlockPos{x=-824, y=-37, z=-1740}
+[01Jun2025 05:16:42.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-825, y=-36, z=-1739} BlockPos{x=-824, y=-37, z=-1740}
+[01Jun2025 05:16:43.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=-36, z=-1738} BlockPos{x=-824, y=-37, z=-1739}
+[01Jun2025 05:16:51.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=129, z=-2183} BlockPos{x=-199, y=129, z=-2184}
+[01Jun2025 05:16:52.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=128, z=-2184} BlockPos{x=-199, y=129, z=-2184}
+[01Jun2025 05:16:52.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=127, z=-2184} BlockPos{x=-199, y=129, z=-2184}
+[01Jun2025 05:16:52.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=127, z=-2184} BlockPos{x=-199, y=129, z=-2184}
+[01Jun2025 05:16:52.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=127, z=-2184} BlockPos{x=-199, y=129, z=-2184}
