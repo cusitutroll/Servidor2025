@@ -106,6 +106,7 @@
       "pine_taiga": "2025-05-20 06:25:14 +0000",
       "autumnal_maple_forest": "2025-06-01 03:50:23 +0000",
       "willow_forest": "2025-05-20 05:03:58 +0000",
+      "redstone_caves": "2025-06-01 04:02:46 +0000",
       "grassy_beach": "2025-05-20 00:37:40 +0000",
       "scorching_caves": "2025-05-20 06:31:54 +0000",
       "highland_fields": "2025-05-20 06:26:07 +0000",
@@ -6641,6 +6642,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-06-01 04:02:46 +0000",
       "scorching_caves": "2025-05-20 06:31:54 +0000",
       "bioshroom_caves": "2025-05-20 06:33:15 +0000"
     },
@@ -7312,6 +7314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/melon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lapis_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
@@ -7324,15 +7332,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/bookshelf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/ghast_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/cactus_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fox_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/pumpkin_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wither_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7348,6 +7398,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/redstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/coal_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/ghast_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
@@ -7360,9 +7428,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/blaze_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pumpkin_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/hay_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bat_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
     "criteria": {
       "has_log": "2025-06-01 03:50:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
     },
     "done": true
   },
@@ -7372,9 +7470,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sheep_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/sheep_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/nether_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7390,9 +7512,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/bee_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/snow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7408,9 +7542,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7420,9 +7566,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/squid_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/enderman_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/pig_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/emerald_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:01:19 +0000"
     },
     "done": true
   },
@@ -7456,9 +7626,33 @@
     },
     "done": true
   },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-06-01 03:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/skeleton_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/villager_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wolf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/chicken_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7468,9 +7662,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/hay_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/horse_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_golem_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7486,6 +7698,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/end_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_golem_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
@@ -7498,9 +7722,33 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/birch_post": {
+    "criteria": {
+      "has_item": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/creeper_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_logs": "2025-06-01 03:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/cactus_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7513,6 +7761,24 @@
   "minecraft:recipes/tools/creeper_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lapis_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
     },
     "done": true
   },
@@ -7534,15 +7800,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/sponge_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/squid_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/magma_cube_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fox_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/emerald_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/sandstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7558,9 +7866,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/cake_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bee_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/gold_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/quartz_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/ocelot_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/dragon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/blaze_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/villager_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },
@@ -7576,15 +7938,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spider_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/enderman_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-01 04:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/horse_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2025-06-01 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/standard_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2025-06-01 03:59:09 +0000"
     },
     "done": true
   },

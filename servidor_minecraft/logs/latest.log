@@ -1280,3 +1280,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 03:48:43.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PandagamerP) moved wrongly! 0.33972720768974796
 [01Jun2025 03:48:45.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of PandagamerP) moved wrongly! 0.27941980496211727
 [01Jun2025 03:49:35.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/19944, l='ServerLevel[AAAA]', x=-64.50, y=78.00, z=-2117.50]
+[01Jun2025 03:58:19.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri has made the advancement [The Ire in Fire]
+[01Jun2025 03:59:37.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandagamerP has made the advancement [Vampire Slayer]
+[01Jun2025 04:04:27.933] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Kokiri with unique ID d5e61253-06d7-4925-a085-ec91ebd6ff39
+[01Jun2025 04:04:27.934] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -329 Y: -7 Z: -2474
+[01Jun2025 04:04:27.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was blown up by Crawler
+[01Jun2025 04:04:27.951] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-330, -7, -2475) minecraft:overworld
+[01Jun2025 04:06:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Teleported Kokiri to PandagamerP]
+[01Jun2025 04:07:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was blown up by Crawler
+[01Jun2025 04:07:29.978] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-349, 1, -2495) minecraft:overworld
