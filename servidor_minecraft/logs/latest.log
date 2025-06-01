@@ -1289,3 +1289,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jun2025 04:06:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Teleported Kokiri to PandagamerP]
 [01Jun2025 04:07:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kokiri was blown up by Crawler
 [01Jun2025 04:07:29.978] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-349, 1, -2495) minecraft:overworld
+[01Jun2025 04:07:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Teleported Kokiri to PandagamerP]
+[01Jun2025 04:07:55.259] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
