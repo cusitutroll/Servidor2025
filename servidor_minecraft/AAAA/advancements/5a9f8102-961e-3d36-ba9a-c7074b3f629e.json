@@ -194,6 +194,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-21 05:45:03 +0000",
+      "cooked_mutton": "2025-06-02 00:10:37 +0000",
       "cooked_beef": "2025-05-20 03:12:16 +0000",
       "baked_potato": "2025-05-19 06:37:57 +0000",
       "porkchop": "2025-05-30 04:30:22 +0000",
@@ -6894,105 +6895,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-30 05:38:46 +0000"
-    },
-    "done": false
-  },
-  "valhelsia_structures:recipes/decorations/green_glazed_jar": {
-    "criteria": {
-      "has_green_terracotta": "2025-05-30 04:49:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-05-30 04:22:47 +0000"
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/big_green_glazed_jar": {
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_green_terracotta": "2025-05-30 04:49:02 +0000"
+      "has_smithing_trim_template": "2025-05-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-05-30 04:23:18 +0000"
     },
     "done": true
   },
   "valhelsia_structures:recipes/decorations/big_yellow_glazed_jar": {
     "criteria": {
       "has_yellow_terracotta": "2025-05-30 04:48:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/lime_glazed_jar": {
-    "criteria": {
-      "has_lime_terracotta": "2025-05-30 04:48:21 +0000"
     },
     "done": true
   },
@@ -7008,15 +6931,33 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_sword_repairing": {
+  "valhelsia_structures:recipes/decorations/lime_glazed_jar": {
     "criteria": {
-      "has_golden_sword": "2025-05-30 04:23:18 +0000"
+      "has_lime_terracotta": "2025-05-30 04:48:21 +0000"
     },
     "done": true
   },
-  "incendium:infernal_dunes/pipeline/root": {
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
-      "requirement": "2025-05-30 05:34:05 +0000"
+      "has_lime_terracotta": "2025-05-30 04:48:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_lime_glazed_jar": {
+    "criteria": {
+      "has_lime_terracotta": "2025-05-30 04:48:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/green_glazed_jar": {
+    "criteria": {
+      "has_green_terracotta": "2025-05-30 04:49:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_green_glazed_jar": {
+    "criteria": {
+      "has_green_terracotta": "2025-05-30 04:49:02 +0000"
     },
     "done": true
   },
@@ -7032,21 +6973,315 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+  "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
-      "has_lime_terracotta": "2025-05-30 04:48:21 +0000"
+      "requirement": "2025-05-30 05:34:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-30 04:22:47 +0000"
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-02 00:23:34 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/big_lime_glazed_jar": {
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
     "criteria": {
-      "has_lime_terracotta": "2025-05-30 04:48:21 +0000"
+      "requirement": "2025-06-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-06-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-06-02 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_jungle_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_curtain": {
+    "criteria": {
+      "has_item": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-06-02 00:01:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-06-02 00:16:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-06-02 00:02:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2025-06-02 00:12:52 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-02 00:08:58 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-06-02 00:02:25 +0000"
     },
     "done": true
   },

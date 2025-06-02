@@ -110,12 +110,14 @@
       "redstone_caves": "2025-05-30 19:12:29 +0000",
       "grassy_beach": "2025-05-31 03:19:29 +0000",
       "rocky_meadow": "2025-05-31 03:41:50 +0000",
+      "mycotoxic_undergrowth": "2025-06-01 23:58:38 +0000",
       "ochard": "2025-05-31 01:42:26 +0000",
       "highland_fields": "2025-05-31 04:04:45 +0000",
       "magnolia_highlands": "2025-05-26 02:55:30 +0000",
       "sparse_redwoods": "2025-05-26 03:00:19 +0000",
       "mountains": "2025-05-31 04:11:12 +0000",
       "deciduous_forest": "2025-05-26 02:44:22 +0000",
+      "temperate_grove": "2025-06-02 00:06:11 +0000",
       "cold_river": "2025-05-31 04:06:59 +0000",
       "pine_slopes": "2025-05-31 04:11:04 +0000",
       "grassland": "2025-05-26 02:52:51 +0000",
@@ -138,6 +140,7 @@
       "sparse_redwoods": "2025-05-26 03:00:19 +0000",
       "mountains": "2025-05-31 04:11:12 +0000",
       "deciduous_forest": "2025-05-26 02:44:22 +0000",
+      "temperate_grove": "2025-06-02 00:06:11 +0000",
       "cold_river": "2025-05-31 04:06:59 +0000",
       "pine_slopes": "2025-05-31 04:11:04 +0000",
       "grassland": "2025-05-26 02:52:51 +0000",
@@ -1134,6 +1137,7 @@
       "minecraft:dripstone_caves": "2025-05-31 04:06:42 +0000",
       "minecraft:grove": "2025-05-31 04:06:12 +0000",
       "minecraft:jagged_peaks": "2025-05-31 04:06:18 +0000",
+      "minecraft:forest": "2025-06-01 23:55:39 +0000",
       "minecraft:lush_caves": "2025-05-31 03:52:37 +0000",
       "minecraft:ocean": "2025-05-31 04:05:22 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-28 00:16:17 +0000",
@@ -5503,78 +5507,389 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-31 06:40:39 +0000",
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:06:00 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-01 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-02 00:11:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-06-01 23:58:38 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:06:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:05:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:05:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:06:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:05:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "cfm:recipes/decorations/stripped_jungle_table": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_planks": "2025-06-02 00:06:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_planks": "2025-06-02 00:05:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_log": "2025-06-02 00:06:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 06:40:39 +0000"
+      "has_planks": "2025-06-02 00:05:59 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-01 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/jungle_post": {
+    "criteria": {
+      "has_item": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-01 23:42:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
+    "criteria": {
+      "has_item": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_log": {
+    "criteria": {
+      "has_jungle_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-01 23:58:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-06-02 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-06-02 00:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-02 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_log": "2025-06-02 00:05:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
