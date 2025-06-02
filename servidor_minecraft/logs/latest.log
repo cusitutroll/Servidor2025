@@ -13,3 +13,31 @@
 [02Jun2025 00:19:55.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was shot by Casti414
 [02Jun2025 00:19:55.888] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-963, 81, -742) minecraft:overworld
 [02Jun2025 00:20:05.077] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Jun2025 00:25:42.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was burnt to a crisp whilst fighting Casti414
+[02Jun2025 00:25:42.205] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-249, 127, -2261) minecraft:overworld
+[02Jun2025 00:25:54.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was slain by Casti414
+[02Jun2025 00:26:06.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was burnt to a crisp whilst fighting Casti414
+[02Jun2025 00:26:06.160] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-251, 127, -2260) minecraft:overworld
+[02Jun2025 00:26:52.151] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for xZ3r0kx with unique ID 465cc751-9ee0-4908-a6b9-e11209b10b18
+[02Jun2025 00:26:52.151] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -250 Y: 125 Z: -2282
+[02Jun2025 00:26:52.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xZ3r0kx was shot by Casti414
+[02Jun2025 00:26:52.157] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-252, 124, -2283) minecraft:overworld
+[02Jun2025 00:27:06.765] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[02Jun2025 00:27:17.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 was shot by Casti414
+[02Jun2025 00:27:17.551] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-279, 128, -2267) minecraft:overworld
+[02Jun2025 00:30:09.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Isaaac_173 suffocated in a wall
+[02Jun2025 00:30:09.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-234, 111, -2275) minecraft:overworld
+[02Jun2025 00:32:10.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[02Jun2025 00:32:10.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[02Jun2025 00:32:22.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.209.123.246:33149] logged in with entity id 94399 at (2152.483992932921, 87.0, -6699.531419919959)
+[02Jun2025 00:32:22.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[02Jun2025 00:32:22.302] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[02Jun2025 00:32:55.777] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Casti414 lost connection: Disconnected
+[02Jun2025 00:32:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 left the game
+[02Jun2025 00:33:08.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Casti414[/127.209.123.246:43143] logged in with entity id 95579 at (2152.483992932921, 87.0, -6699.531419919959)
+[02Jun2025 00:33:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Casti414 joined the game
+[02Jun2025 00:33:08.509] [Server thread/INFO] [Jade/]: Syncing config to Casti414 (aae11e9d-7958-355d-b6a7-3da8fe09ab5c)
+[02Jun2025 00:33:09.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Creative Mode]
+[02Jun2025 00:33:18.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PandagamerP: Set own game mode to Survival Mode]
+[02Jun2025 00:34:02.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICHE019 has made the advancement [A Seedy Place]
+[02Jun2025 00:34:20.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Casti414> [name:"Flores", x:2017, y:81, z:-4902, dim:minecraft:overworld]
